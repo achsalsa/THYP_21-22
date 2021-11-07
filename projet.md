@@ -15,6 +15,5 @@ liens utiles:
 ## Description du projet
 Ceci est une déscription en markdown de mon projet trombinoscope realisé dans le cadre de mon master 2 [THYP], ou il consiste a recuperer de la data, nottament des images, d'un fichier CSV sous google forms, et de renderiser celle-ci sous forme d'un trombinoscope.
 > Trombinoscope: Recueil contenant la photo d'identité accompagnée de textes de présentation de chacun des membres d'une assemblée, d'une organisation.
-
--Lien du porjet ======> [Trombinoscope](https://achsalsa.github.io/THYP_21-22/ex1/)
+[Lien du porjet](https://achsalsa.github.io/THYP_21-22/ex1/)
 
