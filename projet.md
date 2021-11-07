@@ -3,9 +3,9 @@
 # 2021-2022, Université paris 8, Technologies des hypermedias.
 vous pouvez decourrir d'avantage sur l'université en consultant le site oficiel, ou vous deplacer en physique pour y découvrir l'université et ses alentours.
 liens utiles:
-- [Site de l'université](https://github.com/achsalsa/)
-- [Lien de la formation](https://github.com/achsalsa/)
-- [Position GPS de l'université](https://github.com/achsalsa/)
+- [Site de l'université](https://www.univ-paris8.fr/)
+- [Lien de la formation](https://www.univ-paris8.fr/-Master-Technologies-de-l-Hypermedia-678-)
+- [Position GPS de l'université](https://goo.gl/maps/aGwT9QYng9Pr3ALC9)
 
 ## Realisé par ACHAT Asalas, mon Main Github.
 [Repos](https://github.com/achsalsa/)
