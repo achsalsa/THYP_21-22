@@ -1,3 +1,5 @@
+![The San Juan Mountains are beautiful!](https://upload.wikimedia.org/wikipedia/commons/c/cd/Paris_VIII.svg "San Juan Mountains")
+
 #2021-2022, Université paris 8, Technologies des hypermedias
 
 ## projet trombinoscope
