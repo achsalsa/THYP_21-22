@@ -17,3 +17,10 @@ Ceci est une déscription en markdown de mon projet trombinoscope realisé dans 
 > Trombinoscope: Recueil contenant la photo d'identité accompagnée de textes de présentation de chacun des membres d'une assemblée, d'une organisation.
 [Lien du porjet](https://achsalsa.github.io/THYP_21-22/ex1/)
 
+## Technos utilisées
+les technologies utilisée dans ce projet sont les suivantes:
+1. Vanilla HTML: pour organiser et structurer le contenu de la page.
+2. Vanilla CSS: pour donner du style perso a notre page et sortir un peut du cadre standard(bootstrap).
+3. Du javascript et nottamement jquery, pour faire interagir l'utilisateur avec les differents element de la page: dropdowns, accordions, popups...etc.
+4. Bootstrap: la framework qui facilite le dev front.
+5. D3js: le framework qui permet de modeliser des cartes en exploitant des données issues d'un fichier CSV.
