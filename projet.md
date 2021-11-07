@@ -1,4 +1,4 @@
-![The San Juan Mountains are beautiful!](https://upload.wikimedia.org/wikipedia/commons/c/cd/Paris_VIII.svg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://www.campus-condorcet.fr/medias/photo/logo-paris8_1566477376593-png "San Juan Mountains")
 
 #2021-2022, Université paris 8, Technologies des hypermedias
 
