@@ -25,4 +25,4 @@ les technologies utilisée dans ce projet sont les suivantes:
 4. Bootstrap: la framework qui facilite le dev front.
 5. D3js: le framework qui permet de modeliser des cartes en exploitant des données issues d'un fichier CSV.
 
-<img src="https://www.campus-condorcet.fr/medias/photo/logo-paris8_1566477376593-png" width="250"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="250"/>
