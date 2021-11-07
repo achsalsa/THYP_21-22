@@ -24,3 +24,5 @@ les technologies utilisée dans ce projet sont les suivantes:
 3. Du javascript et nottamement jquery, pour faire interagir l'utilisateur avec les differents element de la page: dropdowns, accordions, popups...etc.
 4. Bootstrap: la framework qui facilite le dev front.
 5. D3js: le framework qui permet de modeliser des cartes en exploitant des données issues d'un fichier CSV.
+
+<img src="https://www.campus-condorcet.fr/medias/photo/logo-paris8_1566477376593-png" width="250"/>
