@@ -1,6 +1,6 @@
 <img src="https://www.campus-condorcet.fr/medias/photo/logo-paris8_1566477376593-png" width="250"/>
 
-![Kitten](https://www.campus-condorcet.fr/medias/photo/logo-paris8_1566477376593-png){: width=150 height=100 style="float:right; padding:16px"}
+![Kitten](https://www.campus-condorcet.fr/medias/photo/logo-paris8_1566477376593-png){ width=50% }
 
 #2021-2022, Université paris 8, Technologies des hypermedias.
 
