@@ -15,5 +15,7 @@ liens utiles:
 ## Description du projet
 Ceci est une déscription en markdown de mon projet trombinoscope realisé dans le cadre de mon master 2 [THYP], ou il consiste a recuperer de la data, nottament des images, d'un fichier CSV sous google forms, et de renderiser celle-ci sous forme d'un trombinoscope 
 
-    > Trombinoscope, subst. masc.,fam. Recueil contenant la photo d'identité accompagnée de textes de présentation de chacun des membres d'une assemblée, d'une organisation. L'édition 1983 du trombinoscope du Parlement et du Gouvernement vient de sortir. Il présente les députés, les sénateurs, les membres des cabinets ministériels, les collaborateurs des groupes politiques de l'Assemblée nationale et du Sénat (...). Le tout en 376 pages et plus de 2 200 photos (Le Monde, 18 avr. 1984, p. 9)
+    > Trombinoscope, subst. masc.,fam. Recueil contenant la photo d'identité accompagnée de textes 
+    de présentation de chacun des membres d'une assemblée, d'une organisation.
+
 
