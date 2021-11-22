@@ -1,9 +1,21 @@
+## Lien API artiste
+  > http://localhost:8888/omeka/api/items/9
+ceci est le lien vers l'item de l'artiste renaud dedans on peut trouver les informations classiques et la collection discographie contenant ses albums.
+### Lien API: album "Amoureux de Paname" de renaud
+  > http://localhost:8888/omeka/api/items/14
+
+### Lien API: album "laisse béton" de renaud
+  > http://localhost:8888/omeka/api/items/15
+
+### Lien API: Tous les items y compris les vins, et les evenements musicaux
+  > http://localhost:8888/omeka/api/items
+ 
 # Description du projet 
 Vous trouverez ci-joint deux fichiers Json, exportés depuis Omeka-s afin de service de template.
   > le champ discography servira de collection à contenir des albums, et faire ainsi le lien entre la ressource template Artist et la ressource template Album
 
 ### Un fichier Json Artist contenant les informations suivantes:
-1. title (Nom de l'artiste)
+1. Title (nom de production de l'artiste)
 2. firstName
 3. familyName
 4. birthday
@@ -32,11 +44,3 @@ Vous trouverez ci-joint deux fichiers Json, exportés depuis Omeka-s afin de ser
 9. track
 10. track number
 
-## Lien API artiste
-  > http://localhost:8888/omeka/api/items/9
-ceci est le lien vers l'item de l'artiste renaud dedans on peut trouver les informations classiques et la collection discographie contenant ses albums.
-### Lien API album "Amoureux de Paname" de renaud
-  > http://localhost:8888/omeka/api/items/14
-
-### Lien API album "laisse béton" de renaud
-  > http://localhost:8888/omeka/api/items/15
