@@ -1,3 +1,6 @@
+#Lien vers le tranbinoscope
+ > https://achsalsa.github.io/THYP_21-22/ex1
+
 ## Lien API artiste
   > http://localhost:8888/omeka/api/items/9
 ceci est le lien vers l'item de l'artiste renaud dedans on peut trouver les informations classiques et la collection discographie contenant ses albums.
