@@ -15,7 +15,7 @@
     </style>
 </head>
 <body>
-    <div class="container">
+    <div class="container" id="container">
         <div class="select">
             <select id="resource_templates">
             </select>
@@ -50,7 +50,32 @@
                         type: 'GET', 
                         dataType: 'json', 
                         success: function(response) {
+                            var container=document.getElementById('container');
+                            var select2=document.getElementById('select2');
+                            if (select2){
+                                container.removeChild(select2);
+                            }
+
+                            var select2=document.createElement("select");
+                            select2.setAttribute("id","select2");
                             console.log(response);
+                            for (i=0;i<response.length;i++) {
+                                var newOption = document.createElement("option");
+                                newOption.innerHTML=response[i]['o:id']; 
+                                newOption.setAttribute("value", response[i]['o:id']);
+                                select2.appendChild(newOption);
+                            }
+
+                            var mydiv=document.createElement("divs");
+                            mydiv.setAttribute("class","select");
+                            mydiv.setAttribute("id","select2");
+                            mydiv.appendChild(select2);
+                            console.log(mydiv);
+
+                            container.appendChild(mydiv);
+
+                            
+                            
                         }
                     });
                     
