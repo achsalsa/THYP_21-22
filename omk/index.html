@@ -27,7 +27,7 @@
         $( document ).ready(function() {
             var test;
             $.ajax({ 
-            url: "https://github.com/achsalsa/THYP_21-22/blob/main/omk/data/resource_templates.json", 
+            url: "./data/resource_templates.json", 
             type: 'GET', 
             dataType: 'json', 
             success: function(response) {
@@ -42,9 +42,21 @@
                     newOption.innerHTML=test[i]['o:label']; 
                     newOption.setAttribute("value", test[i]['o:id']);
                     mySelect.appendChild(newOption);
-                } 
+                }
+                mySelect.addEventListener("change", function(){
+                    console.log(mySelect.value);
+                    $.ajax({ 
+                        url: "./data/items_resource_templates_"+mySelect.value+".json", 
+                        type: 'GET', 
+                        dataType: 'json', 
+                        success: function(response) {
+                            console.log(response);
+                        }
+                    });
+                    
+                });
             }
-            })
+            });
         });
     </script>
 </body>
