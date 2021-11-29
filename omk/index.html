@@ -12,6 +12,15 @@
         body{
             margin: 50px 0;
         }
+        select{
+            width: 100%;
+        }
+        div.select{
+            display: block;
+            margin: auto;
+            width: 50%;
+            margin-bottom: 20px;
+        }
     </style>
 </head>
 <body>
@@ -66,7 +75,7 @@
                                 select2.appendChild(newOption);
                             }
 
-                            var mydiv=document.createElement("divs");
+                            var mydiv=document.createElement("div");
                             mydiv.setAttribute("class","select");
                             mydiv.setAttribute("id","select2");
                             mydiv.appendChild(select2);
