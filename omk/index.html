@@ -8,17 +8,16 @@
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css"/>
+    <style>
+        body{
+            margin: 50px 0;
+        }
+    </style>
 </head>
 <body>
     <div class="container">
         <div class="select">
-            <select>
-              <option>With options</option>
-              <option>With options</option>
-              <option>With options</option>
-              <option>With options</option>
-              <option>With options</option>
-              <option>With options</option>
+            <select id="resource_templates">
             </select>
           </div>
     </div>
@@ -36,8 +35,13 @@
 
                 // or save it for later. 
                 test = response;
+                var mySelect = document.getElementById('resource_templates');
+                
                 for (i=0;i<test.length;i++) {
-                    console.log(test[i]);
+                    var newOption = document.createElement("option");
+                    newOption.innerHTML=test[i]['o:label']; 
+                    newOption.setAttribute("value", test[i]['o:id']);
+                    mySelect.appendChild(newOption);
                 } 
             }
             })
