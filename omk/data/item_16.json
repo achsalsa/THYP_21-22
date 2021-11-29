@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/16",
+    "@type": ["o:Item", "mmmmo:CD"],
+    "o:id": 16,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_classes\/392",
+        "o:id": 392
+    },
+    "o:resource_template": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_templates\/5",
+        "o:id": 5
+    },
+    "o:thumbnail": null,
+    "o:title": "Ma gonzesse",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T13:00:28+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T13:00:28+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [{
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+        "o:id": 1
+    }],
+    "dcterms:title": [{
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Ma gonzesse"
+    }],
+    "dcterms:description": [{
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Ma gonzesse est le troisi\u00e8me album de Renaud, sorti en 1979 sous le label Polydor.\n\nL\u0027accord\u00e9oniste sur cet album est Marcel Azzola qui a entre autres accompagn\u00e9 Jacques Brel. Il est r\u00e9alis\u00e9 par Jacques Bedos, tandis que les arrangements et l\u0027orchestration de l\u0027album sont assur\u00e9s par J.C. D\u00e9qu\u00e9ant et Pascal Stive.\n\nLes musiciens jouant sur cet album sont les suivants (hormis Renaud et Marcel Azzola, il s\u0027agit en fait du groupe Oze) : Renaud (chant), Jean-Luc Guillard (batterie), Michel Galliot (basse), Jos\u00e9 Perez (pedal steel guitare, mandoline, fl\u00fbte, ch\u0153urs), Khaled Malki (clavier, fl\u00fbte, percussions), Mourad Malki (guitares, banjo et ch\u0153urs) et Marcel Azzola (accord\u00e9on)."
+    }],
+    "mmmmo:duration": [{
+        "type": "literal",
+        "property_id": 536,
+        "property_label": "duration",
+        "is_public": true,
+        "@value": "34 min 49 s"
+    }],
+    "dcterms:available": [{
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1979"
+    }],
+    "mmmmo:producer": [{
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Jacques Bedos"
+    }],
+    "mmmmo:label": [{
+        "type": "literal",
+        "property_id": 444,
+        "property_label": "label",
+        "is_public": true,
+        "@value": "Polydor"
+    }],
+    "mmmmo:image": [{
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https:\/\/m.media-amazon.com\/images\/I\/81Q-XcdVEEL._SX522_.jpg"
+    }],
+    "mmmmo:download": [{
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https:\/\/www.deezer.com\/fr\/album\/6774491"
+    }],
+    "mmmmo:track": [{
+        "type": "literal",
+        "property_id": 521,
+        "property_label": "track",
+        "is_public": true,
+        "@value": "| piste1 = Ma gonzesse (chanson)|Ma gonzesse\n| piste2 = Sans dec\u0027\n| piste3 = La Tire \u00e0 D\u00e9d\u00e9\n| piste4 = Ch\u0027timi rock\n| piste5 = J\u0027ai la vie qui m\u0027pique les yeux\n| piste6 = C\u0027est mon dernier bal \n| piste7 = Le Tango de [[Massy-Palaiseau]] \n| piste8 = Chanson pour Pierrot \n| piste9 = Salut Manouche \n| piste10 = Peau aime"
+    }],
+    "mmmmo:track_number": [{
+        "type": "literal",
+        "property_id": 561,
+        "property_label": "track number",
+        "is_public": true,
+        "@value": "10"
+    }]
+}

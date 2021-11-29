@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/15",
+    "@type": ["o:Item", "mmmmo:CD"],
+    "o:id": 15,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_classes\/392",
+        "o:id": 392
+    },
+    "o:resource_template": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_templates\/5",
+        "o:id": 5
+    },
+    "o:thumbnail": null,
+    "o:title": "Laisse b\u00e9ton",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T12:49:24+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T12:49:24+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [{
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+        "o:id": 1
+    }],
+    "dcterms:title": [{
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Laisse b\u00e9ton "
+    }],
+    "dcterms:description": [{
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Laisse b\u00e9ton, appel\u00e9 parfois Place de ma mob, est le second album de Renaud, sorti en octobre 1977, sous le label Polydor. En r\u00e9alit\u00e9, l\u0027album n\u0027a pas de titre, mais l\u0027inscription \u00ab Place de ma mob \u00bb s\u0027inscrit sur le d\u00e9cor de la couverture et Laisse b\u00e9ton est le titre de la premi\u00e8re chanson."
+    }],
+    "mmmmo:duration": [{
+        "type": "literal",
+        "property_id": 536,
+        "property_label": "duration",
+        "is_public": true,
+        "@value": "34 min 54 s"
+    }],
+    "dcterms:available": [{
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "Octobre 1977"
+    }],
+    "mmmmo:producer": [{
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Jacqueline Herrenschmidt"
+    }],
+    "mmmmo:label": [{
+        "type": "literal",
+        "property_id": 444,
+        "property_label": "label",
+        "is_public": true,
+        "@value": "Polydor"
+    }],
+    "mmmmo:image": [{
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https:\/\/img.cdandlp.com\/2015\/04\/imgL\/117464452.jpg"
+    }],
+    "mmmmo:download": [{
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https:\/\/www.deezer.com\/fr\/track\/84868957"
+    }],
+    "mmmmo:track": [{
+        "type": "literal",
+        "property_id": 521,
+        "property_label": "track",
+        "is_public": true,
+        "@value": "| piste1 = [[Laisse b\u00e9ton (chanson)|Laisse b\u00e9ton]]\n| piste2 = Le Blues de la Porte d\u0027Orl\u00e9ans\n| piste3 = La Chanson du loubard\n| piste4 = [[Je suis une bande de jeunes]] \n| piste5 = [[Adieu minette]]\n| piste6 = Les Charognards  \n| piste7 = Jojo le d\u00e9mago  \n| piste8 = Buffalo d\u00e9bile  \n| piste9 = [[La Boum (chanson)|La Boum]]\n| piste10 = Germaine  \n| piste11 = M\u00e9lusine  \n| piste12 = La Bande \u00e0 Lucien   "
+    }],
+    "mmmmo:track_number": [{
+        "type": "literal",
+        "property_id": 561,
+        "property_label": "track number",
+        "is_public": true,
+        "@value": "12"
+    }]
+}

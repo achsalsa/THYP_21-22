@@ -1,0 +1,169 @@
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/9",
+    "@type": ["o:Item", "mmmmo:MusicArtist"],
+    "o:id": 9,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_classes\/415",
+        "o:id": 415
+    },
+    "o:resource_template": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_templates\/4",
+        "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Renaud",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T11:08:09+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T13:05:58+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [{
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+        "o:id": 1
+    }],
+    "dcterms:title": [{
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Renaud"
+    }],
+    "foaf:firstName": [{
+        "type": "literal",
+        "property_id": 139,
+        "property_label": "firstName",
+        "is_public": true,
+        "@value": "Renaud"
+    }],
+    "foaf:familyName": [{
+        "type": "literal",
+        "property_id": 145,
+        "property_label": "familyName",
+        "is_public": true,
+        "@value": "S\u00e9chan"
+    }],
+    "foaf:birthday": [{
+        "type": "literal",
+        "property_id": 182,
+        "property_label": "birthday",
+        "is_public": true,
+        "@value": "11 mai 1952"
+    }],
+    "dcterms:description": [{
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Renaud S\u00e9chan, dit Renaud, n\u00e9 le 11 mai 1952 \u00e0 Paris, est un auteur-compositeur-interpr\u00e8te fran\u00e7ais.\n\nAvec vingt-six albums commercialis\u00e9s, totalisant pr\u00e8s de vingt millions d\u0027exemplaires vendus, il est l\u0027un des chanteurs les plus populaires de France. Ses \u0153uvres, aux textes volontiers \u00e9maill\u00e9s d\u0027argot, abordent des th\u00e8mes aussi bien l\u00e9gers que graves, faisant alterner humour, \u00e9motion et critique sociale.\n\nIl joue \u00e9galement dans plusieurs films, notamment en 1993 dans l\u0027adaptation de Germinal par Claude Berri.\n\nAlors que ses prises de position suscitent des pol\u00e9miques, il s\u0027est lui-m\u00eame surnomm\u00e9 \u00ab le chanteur \u00e9nervant \u00bb en raison de ses multiples engagements pour des causes comme les droits de l\u0027homme, l\u0027\u00e9cologisme ou l\u0027antimilitarisme qui transparaissent fr\u00e9quemment dans ses chansons."
+    }],
+    "mmmmo:activity": [{
+        "type": "literal",
+        "property_id": 400,
+        "property_label": "activity",
+        "is_public": true,
+        "@value": "Auteur-compositeur-interpr\u00e8te\nActeur\n\u00c9crivain"
+    }],
+    "mmmmo:image": [{
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0d\/Renaud%2C_2017_%28cropped%29.jpg"
+    }],
+    "mmmmo:genre": [{
+        "type": "literal",
+        "property_id": 433,
+        "property_label": "genre",
+        "is_public": true,
+        "@value": "Chanson fran\u00e7aise, pop rock, folk"
+    }],
+    "dcterms:available": [{
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1968"
+    }],
+    "mmmmo:discography": [{
+        "type": "resource",
+        "property_id": 418,
+        "property_label": "discography",
+        "is_public": true,
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/15",
+        "value_resource_id": 15,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "Laisse b\u00e9ton"
+    }, {
+        "type": "resource",
+        "property_id": 418,
+        "property_label": "discography",
+        "is_public": true,
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/16",
+        "value_resource_id": 16,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "Ma gonzesse"
+    }, {
+        "type": "resource",
+        "property_id": 418,
+        "property_label": "discography",
+        "is_public": true,
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/14",
+        "value_resource_id": 14,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "Amoureux de Paname"
+    }],
+    "mmmmo:instrument": [{
+        "type": "literal",
+        "property_id": 440,
+        "property_label": "instrument",
+        "is_public": true,
+        "@value": "Chant, guitare, accord\u00e9on, harmonica"
+    }],
+    "mmmmo:biography": [{
+        "type": "literal",
+        "property_id": 407,
+        "property_label": "biography",
+        "is_public": true,
+        "@value": "Renaud Pierre Manuel S\u00e9chan na\u00eet le 11 mai 19522 \u00e0 3 h 30, dans le 15e arrondissement de Paris, dix minutes apr\u00e8s son fr\u00e8re David. Sa m\u00e8re a choisi le pr\u00e9nom Renaud3, parce que sa grand-m\u00e8re et sa m\u00e8re lui chantaient La complainte du Roi Renaud, et elle trouvait cela tellement triste qu\u0027elle pleurait \u00e0 chaque fois4.\n\nSon p\u00e8re, Olivier (1911-2006), professeur d\u0027allemand et de n\u00e9erlandais, traducteur et auteur de romans policiers et de livres pour enfants, est originaire d\u0027une famille protestante des C\u00e9vennes5. Il a re\u00e7u le prix des Deux Magots en 1942 pour Les corps ont soif et a travaill\u00e9 pendant la Seconde Guerre mondiale \u00e0 Radio-Paris (radio collaboratrice) comme traducteurn 1. Il a donn\u00e9 \u00e0 Renaud le go\u00fbt de l\u0027\u00e9criture, l\u0027amour de la v\u00e9rit\u00e9 et une \u00e9ducation protestante puritaine7.\n\nSa m\u00e8re, Solange M\u00e9riaux (1922-2019), n\u00e9e dans une famille de mineurs du Nord, \u00e9tait ouvri\u00e8re dans une usine de Saint-\u00c9tienne avant de devenir femme au foyer lorsqu\u0027elle se marie \u00e0 vingt ans. Au d\u00e9marrage de la vie artistique de Renaud, elle travaille alors comme secr\u00e9taire chez Leica \u00e0 Rueil-Malmaison. Elle lui a apport\u00e9 chaleur, simplicit\u00e9 des rapports et l\u0027amour de la rue7.\n\nRenaud est le sixi\u00e8me des huit enfants qu\u0027a eus son p\u00e8re. Il a deux fr\u00e8res : David, un faux jumeau et l\u0027\u00e9crivain Thierry S\u00e9chan (1949-2019), ainsi que deux s\u0153urs : Nelly (1947-2021) et Sophie (n\u00e9e en 1956) ; il a aussi deux demi-s\u0153urs, Christine, (n\u00e9e en 1941) et Catherine (d\u00e9c\u00e9d\u00e9e en 1939), ainsi qu\u0027un demi-fr\u00e8re, Nicolas (n\u00e9 en 1935), enfants de son p\u00e8re Olivier et de sa premi\u00e8re \u00e9pouse, Ren\u00e9e Vincent, n\u00e9e en 1913 et d\u00e9c\u00e9d\u00e9e avec Nicolas dans un bombardement am\u00e9ricain, lors du D\u00e9barquement de Normandie, le 7 juin 1944 \u00e0 Falaise. C\u0027est \u00e0 12 ans, en 1964, que Renaud d\u00e9couvre que sa s\u0153ur Christine est en fait sa demi-s\u0153ur et \u00e0 64 ans, en 2016, lorsqu\u0027il veut voir la tombe de son demi-fr\u00e8re Nicolas et de Ren\u00e9e Vincent, qu\u0027il d\u00e9couvre qu\u0027il avait une autre demi-s\u0153ur, Catherine, d\u00e9c\u00e9d\u00e9e le 10 f\u00e9vrier 1939 d\u0027une maladie infantile8,9,10.\n\nSon grand-p\u00e8re paternel, Louis S\u00e9chan, \u00e9tait un hell\u00e9niste fran\u00e7ais renomm\u00e9, professeur \u00e0 la facult\u00e9 des lettres de Parisn 2, auteur de divers ouvrages et dont l\u0027\u00e9pouse, Isabelle Bost, \u00e9tait, par son p\u00e8re, la petite-fille d\u0027Ami Bost12 et la ni\u00e8ce de John Bost et, par sa m\u00e8re, la ni\u00e8ce de Louisa Siefert (arri\u00e8re-grand-tante de Renaud), qui connut Arthur Rimbaud11.\n\nSon grand-p\u00e8re maternel, Oscar M\u00e9riaux, mineur apr\u00e8s avoir quitt\u00e9 l\u2019\u00e9cole \u00e0 l\u0027\u00e2ge de 13 ans, fut d\u0027abord membre du Parti communiste, puis le quitta en 1937, d\u00e9\u00e7u apr\u00e8s un voyage en Union sovi\u00e9tique en 1932[r\u00e9f. n\u00e9cessaire]. Il rejoignit ensuite le Parti populaire fran\u00e7ais, parti fond\u00e9 par Jacques Doriot, et fit un an de prison \u00e0 la Lib\u00e9ration pour faits de collaborationn 3."
+    }],
+    "mmmmo:download": [{
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https:\/\/www.deezer.com\/fr\/artist\/21"
+    }],
+    "mmmmo:producer": [{
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Renaud"
+    }],
+    "mmmmo:wikipedia": [{
+        "type": "literal",
+        "property_id": 529,
+        "property_label": "wikipedia",
+        "is_public": true,
+        "@value": "https:\/\/fr.wikipedia.org\/wiki\/Renaud"
+    }]
+}

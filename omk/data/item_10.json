@@ -1,0 +1,138 @@
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/10",
+    "@type": ["o:Item", "mmmmo:MusicArtist"],
+    "o:id": 10,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_classes\/415",
+        "o:id": 415
+    },
+    "o:resource_template": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_templates\/4",
+        "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Enrico Macias",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T11:16:54+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T11:16:54+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [{
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+        "o:id": 1
+    }],
+    "dcterms:title": [{
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Enrico Macias"
+    }],
+    "foaf:firstName": [{
+        "type": "literal",
+        "property_id": 139,
+        "property_label": "firstName",
+        "is_public": true,
+        "@value": "Gaston"
+    }],
+    "foaf:familyName": [{
+        "type": "literal",
+        "property_id": 145,
+        "property_label": "familyName",
+        "is_public": true,
+        "@value": "Ghrenassia"
+    }],
+    "foaf:birthday": [{
+        "type": "literal",
+        "property_id": 182,
+        "property_label": "birthday",
+        "is_public": true,
+        "@value": "11 d\u00e9cembre 1938"
+    }],
+    "dcterms:description": [{
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Enrico Macias, n\u00e9 Gaston Ghrenassia le 11 d\u00e9cembre 1938 \u00e0 Constantine (Alg\u00e9rie)2,3, est un chanteur, musicien, compositeur et acteur fran\u00e7ais."
+    }],
+    "mmmmo:activity": [{
+        "type": "literal",
+        "property_id": 400,
+        "property_label": "activity",
+        "is_public": true,
+        "@value": "Chanteur\nCompositeur\nActeur"
+    }],
+    "mmmmo:image": [{
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/3\/35\/Enrico_Macias_2016.jpg"
+    }],
+    "mmmmo:genre": [{
+        "type": "literal",
+        "property_id": 433,
+        "property_label": "genre",
+        "is_public": true,
+        "@value": "Musique arabo-andalouse, world music, vari\u00e9t\u00e9 fran\u00e7aise"
+    }],
+    "dcterms:available": [{
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1962"
+    }],
+    "mmmmo:instrument": [{
+        "type": "literal",
+        "property_id": 440,
+        "property_label": "instrument",
+        "is_public": true,
+        "@value": "Guitare, oud"
+    }],
+    "mmmmo:biography": [{
+        "type": "literal",
+        "property_id": 407,
+        "property_label": "biography",
+        "is_public": true,
+        "@value": "Gaston Ghrenassia4 est le fils de Sylvain Ghrenassia et Suzanne Zaouch, famille juive d\u0027Alg\u00e9rie, musiciens de malouf5. Il se d\u00e9finit lui-m\u00eame comme juif \u00ab d\u0027origine berb\u00e8re \u00bb6 d\u0027A\u00efn Abid. Son p\u00e8re est violoniste dans l\u2019orchestre de Raymond Leyris dit Cheikh Raymond (son futur beau-p\u00e8re) ; il apprend la guitare avec son cousin Jean-Pierre, mais aussi avec des amis gitans qui lui donnent le surnom de \u00ab petit Enrico \u00bb, son futur pr\u00e9nom d\u2019artiste. Son nom d\u2019artiste r\u00e9sulte d\u2019une erreur de la secr\u00e9taire de la maison de disques qui a mal compris son nom au t\u00e9l\u00e9phone et le baptise \u00ab Macias \u00bb, alors qu\u2019Enrico lui avait souffl\u00e9 \u00ab Nassia \u00bb"
+    }],
+    "mmmmo:download": [{
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https:\/\/www.deezer.com\/fr\/artist\/10397"
+    }],
+    "mmmmo:producer": [{
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Enrico Macias"
+    }],
+    "mmmmo:wikipedia": [{
+        "type": "literal",
+        "property_id": 529,
+        "property_label": "wikipedia",
+        "is_public": true,
+        "@value": "https:\/\/fr.wikipedia.org\/wiki\/Enrico_Macias"
+    }]
+}

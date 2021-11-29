@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/12",
+    "@type": ["o:Item", "mmmmo:CD"],
+    "o:id": 12,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_classes\/392",
+        "o:id": 392
+    },
+    "o:resource_template": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_templates\/5",
+        "o:id": 5
+    },
+    "o:thumbnail": null,
+    "o:title": "Temps mort",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T11:41:50+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T11:41:50+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [{
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+        "o:id": 1
+    }],
+    "dcterms:title": [{
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Temps mort"
+    }],
+    "dcterms:description": [{
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Temps mort est le premier album studio solo du rappeur fran\u00e7ais Booba, sorti le 22 janvier 2002 sur le label 45 Scientific.\n\nLa production de cet album a \u00e9t\u00e9 assur\u00e9e par Booba lui-m\u00eame \u00e0 partir de son label 45 Scientific, en distribution avec la major BMG.\n\nIl existe trois pochettes diff\u00e9rentes.\n\nEn quelques mois, apr\u00e8s la sortie officielle de l\u0027album, une r\u00e9\u00e9dition sort avec 2 nouveaux morceaux : le fameux Destin\u00e9e en feat avec Kayna Samet et le deuxi\u00e8me morceau intitul\u00e9 In\u00e9dit tout simplement."
+    }],
+    "mmmmo:duration": [{
+        "type": "literal",
+        "property_id": 536,
+        "property_label": "duration",
+        "is_public": true,
+        "@value": "57:42"
+    }],
+    "dcterms:available": [{
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "2002"
+    }],
+    "mmmmo:producer": [{
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Booba"
+    }],
+    "mmmmo:label": [{
+        "type": "literal",
+        "property_id": 444,
+        "property_label": "label",
+        "is_public": true,
+        "@value": "45 Scientific"
+    }],
+    "mmmmo:image": [{
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https:\/\/static.fnac-static.com\/multimedia\/FR\/Images_Produits\/FR\/fnac.com\/Visual_Principal_340\/9\/7\/6\/3700187626679\/tsp20120926064208\/Temps-mort.jpg"
+    }],
+    "mmmmo:download": [{
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https:\/\/www.deezer.com\/fr\/album\/73913112?utm_source=adwords\u0026utm_campaign=acq_FR_sea-dsa_web_search_perf_tnb-directsub\u0026utm_medium=search\u0026utm_content=dsa_premium_tnb_dsa-allsite\u0026gclid=Cj0KCQiA-eeMBhCpARIsAAZfxZAwnXCIB3PFpBISbC4MgrHlkExTHmlHOSwRiKPdZQXuS2lR7OI15yYaAvD0EALw_wcB"
+    }],
+    "mmmmo:track": [{
+        "type": "literal",
+        "property_id": 521,
+        "property_label": "track",
+        "is_public": true,
+        "@value": "Temps mort\nInd\u00e9pendants\n\u00c9coute bien\nMa d\u00e9finition\nJusqu\u0027ici tout va bien\n[[Repose en paix]]\nLe bitume avec une plume\nAnimals\nSans ratures\n100-8 Zoo\nOn m\u0027a dit\nNouvelle \u00e9cole\nDe mauvaise augure\nStrass et paillettes"
+    }],
+    "mmmmo:track_number": [{
+        "type": "literal",
+        "property_id": 561,
+        "property_label": "track number",
+        "is_public": true,
+        "@value": "14"
+    }]
+}

@@ -1,0 +1,145 @@
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/7",
+    "@type": ["o:Item", "mmmmo:MusicArtist"],
+    "o:id": 7,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_classes\/415",
+        "o:id": 415
+    },
+    "o:resource_template": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_templates\/4",
+        "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Sting",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T10:20:43+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T10:31:35+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [{
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+        "o:id": 1
+    }],
+    "dcterms:title": [{
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Sting"
+    }],
+    "foaf:firstName": [{
+        "type": "literal",
+        "property_id": 139,
+        "property_label": "firstName",
+        "is_public": true,
+        "@value": "Gordon Matthew Thomas"
+    }],
+    "foaf:familyName": [{
+        "type": "literal",
+        "property_id": 145,
+        "property_label": "familyName",
+        "is_public": true,
+        "@value": "Sumner"
+    }],
+    "foaf:birthday": [{
+        "type": "literal",
+        "property_id": 182,
+        "property_label": "birthday",
+        "is_public": true,
+        "@value": "2 octobre 1951"
+    }],
+    "dcterms:description": [{
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Sting, de son vrai nom Gordon Matthew Thomas Sumner, n\u00e9 le 2 octobre 1951 \u00e0 Wallsend (North Tyneside), est un auteur-compositeur-interpr\u00e8te et musicien britannique, bri\u00e8vement instituteur et occasionnellement acteur. Il a acquis la c\u00e9l\u00e9brit\u00e9 \u00e0 la fin des ann\u00e9es 1970 au sein du groupe pop-rock The Police en tant que bassiste et chanteur avant de conna\u00eetre \u00e9galement le succ\u00e8s en menant une carri\u00e8re en solo \u00e0 partir de 1985."
+    }],
+    "mmmmo:activity": [{
+        "type": "literal",
+        "property_id": 400,
+        "property_label": "activity",
+        "is_public": true,
+        "@value": "Auteur-compositeur-interpr\u00e8te, chanteur, guitariste, bassiste, producteur de musique et acteur"
+    }],
+    "mmmmo:image": [{
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d7\/Sting_at_the_2009_Tribeca_Film_Festival.jpg"
+    }],
+    "mmmmo:genre": [{
+        "type": "literal",
+        "property_id": 433,
+        "property_label": "genre",
+        "is_public": true,
+        "@value": "\tRock, Pop, new wave, jazz, new age, blue-eyed soul, reggae, Smooth jazz"
+    }],
+    "dcterms:available": [{
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1974"
+    }],
+    "mmmmo:instrument": [{
+        "type": "literal",
+        "property_id": 440,
+        "property_label": "instrument",
+        "is_public": true,
+        "@value": "Fender Precision Bass guitare"
+    }],
+    "mmmmo:biography": [{
+        "type": "literal",
+        "property_id": 407,
+        "property_label": "biography",
+        "is_public": true,
+        "@value": "\nFils a\u00een\u00e9 d\u0027Ernest Sumner (1926-1987), ouvrier naval devenu livreur de lait pour \u00e9chapper \u00e0 la crise de ce secteur, et d\u0027Audrey Cowell (1931-1987), coiffeuse2, Gordon Matthew Thomas Sumner a un fr\u00e8re, Philip, et deux s\u0153urs, Angela et Anita3.\n\nIl se passionne t\u00f4t pour la musique, encourag\u00e9 par sa m\u00e8re, pianiste amateur, mais sans l\u0027approbation de son p\u00e8re qui veut le voir faire un \u00ab\u202fvrai m\u00e9tier \u00bb. Au d\u00e9but des ann\u00e9es 1960, il d\u00e9couvre la guitare que son oncle a laiss\u00e9e dans sa maison et se saigne les doigts \u00e0 apprendre \u00e0 jouer de cet instrument4.\n\nIl fait donc ses premi\u00e8res armes musicales \u00e0 la guitare, mais d\u00e9couvre aussi le piano, la mandoline, le saxophone, l\u0027harmonica et la fl\u00fbte de Pan.\n\nIl suit les cours du Northern Counties College of Education de 1971 \u00e0 1974, puis est instituteur pendant deux ans \u00e0 la St. Paul\u0027s Middle School de Cramlington. C\u0027est pendant ces ann\u00e9es qu\u0027il joue avec des groupes de jazz le soir et les week-ends. Son surnom de \u00ab Sting \u00bb lui est attribu\u00e9 en 1972 apr\u00e8s le concert d\u0027un de ses groupes, The Phoenix Jazzmen, alors qu\u0027il porte un pull noir \u00e0 rayures jaunes sur sc\u00e8ne : le trombone et leader du groupe, Gordon Soloman5, trouve qu\u0027il ressemblait \u00e0 une gu\u00eape d\u0027o\u00f9 le nom (\u00ab Sting \u00bb veut dire \u00ab dard \u00bb ou \u00ab piq\u00fbre \u00bb)6 (Soloman faisant probablement r\u00e9f\u00e9rence aussi \u00e0 ses performances sexuelles7).\n\nThe Phoenix Jazzmen d\u00e9cident finalement de mettre fin \u00e0 leur r\u00e9pertoire de reprises et d\u0027interpr\u00e9ter leurs propres compositions. \u00c0 la surprise g\u00e9n\u00e9rale, Sting ne conna\u00eet pas le solf\u00e8ge et est provisoirement renvoy\u00e9. Il apprend le solf\u00e8ge en une trentaine de jours mais d\u00e9j\u00e0 remplac\u00e9, il ne pourra pas r\u00e9int\u00e9grer le groupe.\n\nEn 1976, alors que Sting est le contrebassiste et chanteur du groupe Last Exit, Stewart Copeland, cherchant alors un bassiste, le d\u00e9couvre lors d\u0027un concert et lui propose de former un groupe avec le guitariste fran\u00e7ais Henry Padovani (ce dernier \u00e9tant remplac\u00e9 plus tard par Andy Summers). Le groupe s\u0027appellera The Police et le trio conna\u00eetra un succ\u00e8s mondial. Leur premier succ\u00e8s, Roxanne installe le groupe en haut des classements musicaux, place qu\u0027il retrouvera tout au long de sa carri\u00e8re.\n\nEn 1979, Sting fait ses d\u00e9buts au grand \u00e9cran dans l\u0027adaptation cin\u00e9matographique de l\u0027op\u00e9ra-rock Quadrophenia (du groupe The Who).\n\nThe Police conna\u00eet un grand succ\u00e8s mondial \u00e0 travers ses cinq albums : Outlandos d\u0027Amour (1978), Reggatta de Blanc (1979), Zenyatt\u00e0 Mondatta (1980), Ghost in the Machine (1981), et Synchronicity (1983) qui contient notamment le plus grand succ\u00e8s de l\u0027ann\u00e9e 1983, la chanson de Sting Every Breath You Take. Le groupe se lance dans le Synchronicity Tour qui comprend 105 dates et d\u00e9bute le 23 juillet 1983 \u00e0 Chicago. Comme lors de la pr\u00e9c\u00e9dente tourn\u00e9e, Sting impose au groupe des choristes. La tourn\u00e9e conna\u00eet son apog\u00e9e le 7 ao\u00fbt 1983 au Shea Stadium \u00e0 New York o\u00f9 le groupe joue devant plus de 70 000 personnes. \u00c0 la fin de ce concert exceptionnel, Sting annonce au public : \u00ab Nous voulons remercier les Beatles pour nous avoir pr\u00eat\u00e9 leur stade \u00bb8 et dira ensuite \u00ab Durant notre show, j\u0027ai pens\u00e9, voil\u00e0, c\u0027est termin\u00e9, on ne pourra jamais faire mieux que \u00e7a. C\u0027est l\u00e0 que j\u0027ai d\u00e9cid\u00e9 d\u0027arr\u00eater le groupe \u00bb8 Sting annonce donc \u00e0 Stewart Copeland et Andy Summers qu\u0027il souhaite arr\u00eater.\n\nUn concert est enregistr\u00e9 \u00e0 Atlanta le 13 et le 14 novembre 1983, au plus fort de la tourn\u00e9e. Il sort en film en 1984, et en 1995 sur le deuxi\u00e8me CD de l\u0027album Live! \u00c0 la fin de la tourn\u00e9e, le 4 mars 1984 \u00e0 Melbourne, le groupe annonce qu\u0027il fait une pause et qu\u0027il prend une ann\u00e9e sabbatique au bout de laquelle il ne se reformera pas. Un premier rendez-vous est pourtant pr\u00e9vu en juillet 1984 mais Sting, Andy Summers et Stewart Copeland \u00ab oublient \u00bb de se retrouver en studio pour enregistrer leur sixi\u00e8me album. Les tensions au sein du groupe atteignent le point de non-retour. Sting tourne pendant l\u0027\u00e9t\u00e9 1984 dans The Bride de Franc Roddam o\u00f9 il joue le r\u00f4le du Baron Victor Frankenstein. Au printemps 1985, Sting enregistre son premier album solo The Dream of the Blue Turtles avec des musiciens issus du jazz, le pianiste Kenny Kirkland, le saxophoniste Branford Marsalis, le bassiste Darryl Jones et le batteur Omar Hakim ainsi que les choristes Dolette McDonald et Janice Pendarvis et d\u00e9marre une carri\u00e8re solo. Un film sera tourn\u00e9 en 1986 co\u00efncidant avec la naissance de son nouveau groupe et s\u0027intitulera Bring On the Night.\n\nEn f\u00e9vrier 2007, Sting annonce que le groupe The Police se reforme et entame une tourn\u00e9e mondiale. Les 29 et 30 septembre 2007, lors des concerts au stade de France, le groupe offre une surprise \u00e0 ses fans fran\u00e7ais, en faisant monter sur sc\u00e8ne Henry Padovani pour reprendre Next to you.\n\nThe Dream of the Blue Turtles, sort en 1985 et comporte des chansons engag\u00e9es comme Russians et Children\u0027s Crusade, et des sonorit\u00e9s plus jazzy comme sur If You Love Somebody Set Them Free, Children\u0027s Crusade ou encore Consider Me Gone. La m\u00eame ann\u00e9e, il fait les ch\u0153urs sur la chanson Money for Nothing de Dire Straits pour laquelle il est cr\u00e9dit\u00e9 comme coauteur avec Mark Knopfler car elle incorpore la m\u00e9lodie de Don\u0027t Stand So Close to Me.\n\nSon deuxi\u00e8me album, \u2026Nothing Like the Sun, sort en 1987, plus rock mais avec des reliquats jazz (Englishman in New York avec le saxophoniste Branford Marsalis). Il reprend aussi un titre de Jimi Hendrix, Little Wing avec Gil Evans. Sting est un des premiers artistes \u00e0 d\u00e9noncer le r\u00e9gime de Pinochet9 (They Dance Alone). Le funk revient avec We\u0027ll Be Together. Sting s\u0027entoure de musiciens comme Eric Clapton, Hiram Bullock et Mark Knopfler, et voit une nouvelle collaboration avec Andy Summers. Si sur son premier album il ne jouait que de la guitare, ici il joue \u00e9galement de la basse sur History Will Teach us Nothing et Fragile.\n\nL\u0027album suivant, The Soul Cages, marque un virage rock bien entam\u00e9 \u00e0 travers le recrutement du guitariste Dominic Miller, sur lequel il aborde des questions m\u00e9taphysiques \u00e0 la suite du d\u00e9c\u00e8s de son p\u00e8re, en allant puiser l\u0027inspiration dans ses souvenirs d\u0027enfance \u00e0 Newcastle. Cet album a moins de succ\u00e8s critique, malgr\u00e9 la r\u00e9ussite de la tourn\u00e9e qui suit avec notamment la premi\u00e8re apparition de Vinnie Colaiuta \u00e0 la batterie qui deviendra un habitu\u00e9 de son groupe.\n\n"
+    }],
+    "mmmmo:download": [{
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https:\/\/www.deezer.com\/fr\/artist\/368"
+    }],
+    "mmmmo:group": [{
+        "type": "literal",
+        "property_id": 434,
+        "property_label": "group",
+        "is_public": true,
+        "@value": "The Police"
+    }],
+    "mmmmo:producer": [{
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Sting"
+    }],
+    "mmmmo:wikipedia": [{
+        "type": "literal",
+        "property_id": 529,
+        "property_label": "wikipedia",
+        "is_public": true,
+        "@value": "https:\/\/fr.wikipedia.org\/wiki\/Sting"
+    }]
+}

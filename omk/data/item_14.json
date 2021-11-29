@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/14",
+    "@type": ["o:Item", "mmmmo:CD"],
+    "o:id": 14,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_classes\/392",
+        "o:id": 392
+    },
+    "o:resource_template": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_templates\/5",
+        "o:id": 5
+    },
+    "o:thumbnail": null,
+    "o:title": "Amoureux de Paname",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T12:41:20+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T12:41:20+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [{
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+        "o:id": 1
+    }],
+    "dcterms:title": [{
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Amoureux de Paname"
+    }],
+    "dcterms:description": [{
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "M\u00eame si ses ventes n\u0027ont pas atteint des sommets, certaines chansons comme Hexagone ou Soci\u00e9t\u00e9, tu m\u0027auras pas re\u00e7oivent un vif succ\u00e8s. On retiendra que Camarade bourgeois est la premi\u00e8re chanson que Renaud a chant\u00e9e \u00e0 la t\u00e9l\u00e9vision, dans une \u00e9mission de Dani\u00e8le Gilbert.\n\nLes producteurs refus\u00e8rent la chanson Monsieur Franco, trop engag\u00e9e, qui devint Petite fille des sombres rues2.\n\nLa chanson Greta \u00e9voque les s\u00e9parations li\u00e9es au mur de Berlin."
+    }],
+    "mmmmo:duration": [{
+        "type": "literal",
+        "property_id": 536,
+        "property_label": "duration",
+        "is_public": true,
+        "@value": "37 min 03 s"
+    }],
+    "dcterms:available": [{
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "3 avril 1975"
+    }],
+    "mmmmo:producer": [{
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Jacqueline Herrenschmidt"
+    }],
+    "mmmmo:label": [{
+        "type": "literal",
+        "property_id": 444,
+        "property_label": "label",
+        "is_public": true,
+        "@value": "Polydor"
+    }],
+    "mmmmo:image": [{
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https:\/\/images-eu.ssl-images-amazon.com\/images\/I\/51rEPEOGCAL._SX300_SY300_QL70_ML2_.jpg"
+    }],
+    "mmmmo:download": [{
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https:\/\/www.deezer.com\/fr\/album\/6774458"
+    }],
+    "mmmmo:track": [{
+        "type": "literal",
+        "property_id": 521,
+        "property_label": "track",
+        "is_public": true,
+        "@value": "| piste1 = Amoureux de Paname \n| piste2 = Soci\u00e9t\u00e9, tu m\u0027auras pas !\n| piste3 = Petite fille des sombres rues \n| piste4 = La Java sans joie \n| piste5 = Gueule d\u0027aminche \n| piste6 = La Coupole \n| piste7 = [[Hexagone (chanson)|Hexagone]]\n| piste8 = \u00c9coutez-moi les gavroches\n| piste9 = Rita \n| piste10 = Camarade bourgeois \n| piste11 = Le Gringalet \n| piste12 = La Menthe \u00e0 l\u0027eau \n| piste13 = Greta "
+    }],
+    "mmmmo:track_number": [{
+        "type": "literal",
+        "property_id": 561,
+        "property_label": "track number",
+        "is_public": true,
+        "@value": "13"
+    }]
+}

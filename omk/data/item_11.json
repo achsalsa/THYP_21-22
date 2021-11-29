@@ -1,0 +1,166 @@
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/11",
+    "@type": ["o:Item", "mmmmo:MusicArtist"],
+    "o:id": 11,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_classes\/415",
+        "o:id": 415
+    },
+    "o:resource_template": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_templates\/4",
+        "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Booba",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T11:28:17+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T12:28:32+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [{
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+        "o:id": 1
+    }],
+    "dcterms:title": [{
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Booba"
+    }],
+    "foaf:firstName": [{
+        "type": "literal",
+        "property_id": 139,
+        "property_label": "firstName",
+        "is_public": true,
+        "@value": "\u00c9lie"
+    }],
+    "foaf:familyName": [{
+        "type": "literal",
+        "property_id": 145,
+        "property_label": "familyName",
+        "is_public": true,
+        "@value": "Yaffa"
+    }],
+    "foaf:birthday": [{
+        "type": "literal",
+        "property_id": 182,
+        "property_label": "birthday",
+        "is_public": true,
+        "@value": "9 d\u00e9cembre 1976"
+    }],
+    "dcterms:description": [{
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Booba, de son vrai nom \u00c9lie Yaffa, n\u00e9 le 9 d\u00e9cembre 1976 \u00e0 Boulogne-Billancourt, est un rappeur et homme d\u2019affaire fran\u00e7ais. Il est le fondateur du 92i, collectif regroupant initialement des rappeurs issus des Hauts-de-Seine, tels Mala et Bram\u0027s ; il est \u00e9galement membre du groupe de rap fran\u00e7ais Lunatic, avec son ancien acolyte Ali, au sein duquel ils se sont fait conna\u00eetre au milieu des ann\u00e9es 1990. Homme d\u0027affaires tr\u00e8s actif, il lance en 2004 sa marque de v\u00eatements streetwear \u00dcnkut puis, suivront au fil des ann\u00e9es, un parfum, la marque de whisky D.U.C ainsi qu\u0027un site web, une cha\u00eene de t\u00e9l\u00e9vision et une webradio, tous trois autour de la marque OKLM.\n\nIl est le second artiste rap solo \u00e0 remplir le palais omnisports de Paris-Bercy apr\u00e8s Kool Shen5. Le groupe Lunatic, avec son comp\u00e8re Ali originaire d\u0027Issy-les-Moulineaux, recueille \u00e0 la fois les suffrages de la critique et du public6. Leur album Mauvais \u0153il entre dans l\u0027histoire du rap fran\u00e7ais en obtenant un disque d\u0027or : c\u0027est le premier album en ind\u00e9pendant \u00e0 obtenir une telle r\u00e9compense7,8.\n\nBooba a produit dix albums9 et en a vendu plus de 2,8 millions, se classant \u00e0 la quatri\u00e8me place des rappeurs ayant le plus vendus d\u0027albums dans l\u0027histoire du rap fran\u00e7ais10. Le premier, Temps mort, est publi\u00e9 en 2002 ; en 2005 sort la mixtape, Autopsie Vol. 1. Son cinqui\u00e8me album, Lunatic, publi\u00e9 le 22 novembre 201011, reprend le nom de son ancien groupe. Certifi\u00e9 disque d\u0027or d\u00e8s la premi\u00e8re semaine12, Lunatic est aujourd\u0027hui double disque de platine13. Le 26 novembre 2012, Booba publie son sixi\u00e8me opus, intitul\u00e9 Futur. Certifi\u00e9 disque d\u0027or en une seule semaine avec plus de 51 000 exemplaires vendus, il constitue \u00e0 ce jour le meilleur d\u00e9marrage de ventes de sa carri\u00e8re. Futur bat \u00e9galement le record fran\u00e7ais d\u0027albums num\u00e9riques vendus sur iTunes, toutes cat\u00e9gories musicales confondues, avec plus de 17 000 exemplaires en une seule semaine14, d\u00e9tr\u00f4n\u00e9 depuis 2013 par les Daft Punk15."
+    }],
+    "mmmmo:activity": [{
+        "type": "literal",
+        "property_id": 400,
+        "property_label": "activity",
+        "is_public": true,
+        "@value": "Rappeur, producteur, entrepreneur"
+    }],
+    "mmmmo:image": [{
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/c4\/Festival_des_Vieilles_Charrues_2019_-_Booba_-_038.jpg"
+    }],
+    "mmmmo:genre": [{
+        "type": "literal",
+        "property_id": 433,
+        "property_label": "genre",
+        "is_public": true,
+        "@value": "Hip-hop fran\u00e7ais, gangsta rap"
+    }],
+    "dcterms:available": [{
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1994"
+    }],
+    "mmmmo:discography": [{
+        "type": "resource",
+        "property_id": 418,
+        "property_label": "discography",
+        "is_public": true,
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/12",
+        "value_resource_id": 12,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "Temps mort"
+    }, {
+        "type": "resource",
+        "property_id": 418,
+        "property_label": "discography",
+        "is_public": true,
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/13",
+        "value_resource_id": 13,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "ULTRA"
+    }],
+    "mmmmo:instrument": [{
+        "type": "literal",
+        "property_id": 440,
+        "property_label": "instrument",
+        "is_public": true,
+        "@value": "Voix, Auto-Tune"
+    }],
+    "mmmmo:biography": [{
+        "type": "literal",
+        "property_id": 407,
+        "property_label": "biography",
+        "is_public": true,
+        "@value": "Booba est p\u00e8re de deux enfants : une fille nomm\u00e9e Luna n\u00e9e le 20 mai 201425 et un gar\u00e7on nomm\u00e9 Omar n\u00e9 le 28 f\u00e9vrier 201526, tous deux n\u00e9s de sa relation avec Patricia Cerqueira Vinces27. Le 10 janvier 2016, Patricia Vinces annonce sur Instagram \u00eatre enceinte de son quatri\u00e8me enfant qui est le troisi\u00e8me n\u00e9 de son union avec Booba28,29.\n\nDepuis 2008 le rappeur vit \u00e0 Miami, lieu de r\u00e9sidence de sa compagne et ses enfants, et fait la navette avec la France dans le cadre de collaborations artistiques30.\n\nLes m\u00e9dias reprochent souvent \u00e0 Booba son rapport \u00e0 l\u0027argent dont il parle en abondance et qu\u0027il exhibe dans ses clips vid\u00e9o. Le rappeur qualifie pour sa part l\u0027argent de passeport qui permet de r\u00e9aliser des objectifs concrets31. Sa fortune est estim\u00e9e entre 6 et 10 millions d\u0027euros en 201632,33.\n\nIl mesure 1,92 m et p\u00e8se pr\u00e8s de 110 kg, \u00e9tant adepte de la musculation depuis 2002[r\u00e9f. n\u00e9cessaire].\n\nIl confirme dans une interview \u00eatre de confession musulmane, mais \u00ab pas tr\u00e8s pratiquant \u00bb34, et d\u00e9ment \u00eatre de confession juive34,35,36. D\u00e9menti r\u00e9it\u00e9r\u00e9 dans la chanson Gun In My Hand, en collaboration avec Akon : \u00ab Para\u00eet que je prends de la coke, para\u00eet que je suis en prison, para\u00eet que je suis juif \u00bb37 Il trouve cependant stupide et raciste d\u0027utiliser le mot \u00ab juif \u00bb pour l\u0027insulter et exprime son m\u00e9pris envers les antis\u00e9mites.\n\nEn 2006, deux d\u00e9linquants \u00e2g\u00e9s de 22 ans, Guillaume et Ahmed, veulent s\u0027attaquer \u00e0 Booba pour de l\u0027argent. Arm\u00e9s d\u0027un flashball et de gaz lacrymog\u00e8ne, ils s\u0027introduisent dans le domicile de sa m\u00e8re mais le rappeur est absent. Ils ligotent et s\u00e9questrent sa m\u00e8re et son fr\u00e8re afin d\u0027obtenir une ran\u00e7on. Le rappeur fait appel \u00e0 la police qui arr\u00eate les malfaiteurs, inexp\u00e9riment\u00e9s mais tr\u00e8s nerveux. Ils seront condamn\u00e9s \u00e0 quatre ans et demi d\u0027emprisonnement38.\n\nLe 22 mai 2011, son ami proche Bram\u0027s, membre du collectif 92i, met fin \u00e0 ses jours. Tr\u00e8s afflig\u00e9 par cette perte, \u00c9lie Yaffa d\u00e9die de nombreux morceaux \u00e0 sa m\u00e9moire et se tatoue le chiffre \u00ab 7 \u00bb sous l\u0027\u0153il droit afin de lui rendre hommage39."
+    }],
+    "mmmmo:download": [{
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https:\/\/www.deezer.com\/fr\/artist\/390"
+    }],
+    "mmmmo:group": [{
+        "type": "literal",
+        "property_id": 434,
+        "property_label": "group",
+        "is_public": true,
+        "@value": "LUNATIC"
+    }],
+    "mmmmo:producer": [{
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Booba"
+    }],
+    "mmmmo:wikipedia": [{
+        "type": "literal",
+        "property_id": 529,
+        "property_label": "wikipedia",
+        "is_public": true,
+        "@value": "https:\/\/fr.wikipedia.org\/wiki\/Booba"
+    }]
+}

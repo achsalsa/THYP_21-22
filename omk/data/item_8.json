@@ -1,0 +1,145 @@
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/8",
+    "@type": ["o:Item", "mmmmo:MusicArtist"],
+    "o:id": 8,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_classes\/415",
+        "o:id": 415
+    },
+    "o:resource_template": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_templates\/4",
+        "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Chester Bennington",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T10:42:28+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T10:42:28+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [{
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+        "o:id": 1
+    }],
+    "dcterms:title": [{
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Chester Bennington"
+    }],
+    "foaf:firstName": [{
+        "type": "literal",
+        "property_id": 139,
+        "property_label": "firstName",
+        "is_public": true,
+        "@value": "Chester Charles"
+    }],
+    "foaf:familyName": [{
+        "type": "literal",
+        "property_id": 145,
+        "property_label": "familyName",
+        "is_public": true,
+        "@value": "Bennington"
+    }],
+    "foaf:birthday": [{
+        "type": "literal",
+        "property_id": 182,
+        "property_label": "birthday",
+        "is_public": true,
+        "@value": "20 mars 1976"
+    }],
+    "dcterms:description": [{
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Chester Bennington, n\u00e9 le 20 mars 1976 \u00e0 Phoenix (Arizona), et mort le 20 juillet 2017 \u00e0 Palos Verdes Estates (Californie), est un chanteur am\u00e9ricain. Il a \u00e9t\u00e9 le chanteur principal du groupe de nu metal Linkin Park, du groupe Dead by Sunrise dont il \u00e9tait le fondateur et, de mai 2013 \u00e0 novembre 2015, du groupe Stone Temple Pilots."
+    }],
+    "mmmmo:activity": [{
+        "type": "literal",
+        "property_id": 400,
+        "property_label": "activity",
+        "is_public": true,
+        "@value": "Chanteur\nCompositeur"
+    }],
+    "mmmmo:image": [{
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/6d\/Linkin_Park-Rock_im_Park_2014-_by_2eight_3SC0327.jpg?uselang=fr"
+    }],
+    "mmmmo:genre": [{
+        "type": "literal",
+        "property_id": 433,
+        "property_label": "genre",
+        "is_public": true,
+        "@value": "Nu metal, rock alternatif, metal alternatif, rap rock, grunge"
+    }],
+    "dcterms:available": [{
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1993"
+    }],
+    "mmmmo:instrument": [{
+        "type": "literal",
+        "property_id": 440,
+        "property_label": "instrument",
+        "is_public": true,
+        "@value": "Chant, guitare, claviers"
+    }],
+    "mmmmo:biography": [{
+        "type": "literal",
+        "property_id": 407,
+        "property_label": "biography",
+        "is_public": true,
+        "@value": "Chester Charles Bennington na\u00eet le 20 mars 1976 \u00e0 Phoenix en Arizona, d\u0027un p\u00e8re policier et d\u0027une m\u00e8re infirmi\u00e8re. Chester a deux grandes s\u0153urs et un demi-fr\u00e8re, Brian, de 13 ans son a\u00een\u00e9. Il \u00e9tudie au coll\u00e8ge de Greenway et au lyc\u00e9e de Washington, o\u00f9 il est dipl\u00f4m\u00e9 en 1994. Enfant, Chester chante dans toute la maison en s\u0027imaginant \u00eatre le cinqui\u00e8me membre de Depeche Mode. Chester est abus\u00e9 sexuellement par un ami de la famille alors qu\u0027il n\u0027a que 7 ans1. Ses parents divorcent alors qu\u0027il n\u0027a que 11 ans. Il sombre alors dans la drogue. D\u00e8s ce moment et jusqu\u0027\u00e0 ses 16 ans, Chester a admis avoir \u00e9t\u00e9 accro au cannabis, puis \u00e0 la coca\u00efne et \u00e0 la m\u00e9thamph\u00e9tamine . Il n\u0027a jamais cach\u00e9 son alcoolisme et ses addictions \u00e0 la drogue, se d\u00e9crivant lui-m\u00eame comme un junkie2.\n\nAvant sa carri\u00e8re musicale, il vit gr\u00e2ce \u00e0 des petits boulots : assistant dans une entreprise de services num\u00e9riques, il travaille \u00e9galement dans un bar. (Chester a sa propre id\u00e9e de la religion : \u00ab Je crois en Dieu mais je ne pratique, pr\u00eache ou discute pas ouvertement de ma propre id\u00e9e \u00bb\n\nLe 20 juillet 2017, le chanteur a \u00e9t\u00e9 retrouv\u00e9 mort par un employ\u00e9, pendu dans sa r\u00e9sidence \u00e0 Palos Verdes Estates en Californie10. Le m\u00e9decin l\u00e9giste confirme un suicide.\n\nLa presse rapporte qu\u0027il a \u00e9t\u00e9 profond\u00e9ment \u00e9branl\u00e9 par le suicide de son ami Chris Cornell survenu deux mois plus t\u00f4t, en mai 2017. Chester Bennington avait d\u0027ailleurs \u00e9crit en substance dans une lettre : \u00ab Je ne peux imaginer un monde sans toi \u00bb11. Les m\u00e9dias soulignent d\u0027ailleurs que le 20 juillet \u00e9tait l\u0027anniversaire de Chris Cornell12. Le 29 juillet 2017, une c\u00e9r\u00e9monie fun\u00e9raire a eu lieu au Jardin Botanique de South Coast \u00e0 Palos Verdes Estates en Californie en pr\u00e9sence de nombreux musiciens de la sc\u00e8ne rock.\n\nLe 27 octobre suivant \u00e0 Los Angeles, les cinq autres membres du groupe Linkin Park organisent un concert hommage au Hollywood Bowl. Participent \u00e0 ce concert entre autres : Jonathan Davis, M. Shadows et Synyster Gates du groupe Avenged Sevenfold, Kiiara, Takahiro Morita du groupe One Ok Rock, Oliver Sykes, Machine Gun Kelly, Deryck Whibley et Frank Zummo du groupe Sum 41, Blink-182, Ryan Key, Alanis Morissette, Gavin Rossdale, Steve Aoki13.\n\nChester a six enfants : quatre gar\u00e7ons et deux filles (des jumelles). Jaime Bennington, son fils ain\u00e9, est n\u00e9 le 12 mai 1996 de sa relation avec sa petite amie de l\u0027\u00e9poque Elka Brand14. Isaiah Bennington est n\u00e9 le 8 novembre 1997. Isaiah est le fils d\u0027Elka Brand mais n\u0027est pas le fils biologique de Chester. Chester s\u0027\u00e9tait s\u00e9par\u00e9 d\u0027Elka Brand en 1996 pour se marier avec sa premi\u00e8re femme Samantha Marie Olit. Il adoptera cependant officiellement Isaiah en 200614.\n\nLe 31 octobre 1996, alors \u00e2g\u00e9 de 20 ans, Chester se marie avec Samantha Marie Olit. N\u0027ayant pas assez d\u0027argent pour se permettre un vrai mariage, Chester travaillant alors dans un restaurant de l\u0027enseigne Burger King5, et s\u0027acheter des alliances, ils se sont fait tatouer celles-ci sur leurs doigts14. Ensemble ils ont un fils Draven Sebastian Bennington, n\u00e9 en 200214. Le 2 mai 2005, apr\u00e8s huit ans et demi de mariage, le couple divorce. Alors tr\u00e8s affect\u00e9 par sa pr\u00e9c\u00e9dente rupture, Chester rencontre Talinda Ann Bentley gr\u00e2ce \u00e0 un ami commun. Chester dira qu\u0027il a tout de suite su que c\u0027\u00e9tait la femme de sa vie14. Ils emm\u00e9nagent ensemble au bout d\u0027une semaine et se marient le 31 d\u00e9cembre 2005. Ensemble, ils ont un gar\u00e7on, Tyler Lee, n\u00e9 en 2006 et des jumelles, Lily et Lila, n\u00e9es en 201114.\n\nChester \u00e9tait un fan de l\u0027\u00e9quipe de NBA des Phoenix Suns, tandis que Mike Shinoda, autre chanteur du groupe Linkin Park, supportait lui les Lakers5.\n\n"
+    }],
+    "mmmmo:download": [{
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https:\/\/www.deezer.com\/fr\/artist\/1490547"
+    }],
+    "mmmmo:group": [{
+        "type": "literal",
+        "property_id": 434,
+        "property_label": "group",
+        "is_public": true,
+        "@value": "linkin park"
+    }],
+    "mmmmo:producer": [{
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Chester Bennington"
+    }],
+    "mmmmo:wikipedia": [{
+        "type": "literal",
+        "property_id": 529,
+        "property_label": "wikipedia",
+        "is_public": true,
+        "@value": "https:\/\/fr.wikipedia.org\/wiki\/Chester_Bennington"
+    }]
+}

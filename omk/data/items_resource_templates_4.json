@@ -1,0 +1,22 @@
+[{"@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/7",
+    "@type": ["o:Item", "mmmmo:MusicArtist"],
+    "o:id": 7
+},
+{"@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/8",
+    "@type": ["o:Item", "mmmmo:MusicArtist"],
+    "o:id": 8
+},
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/9",
+    "@type": ["o:Item", "mmmmo:MusicArtist"],
+    "o:id": 9
+},
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/10",
+    "@type": ["o:Item", "mmmmo:MusicArtist"],
+    "o:id": 10
+}]

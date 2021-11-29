@@ -1,0 +1,110 @@
+{
+    "@context": "http:\/\/localhost:8888\/omeka\/api-context",
+    "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/13",
+    "@type": ["o:Item", "mmmmo:CD"],
+    "o:id": 13,
+    "o:is_public": true,
+    "o:owner": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/users\/1",
+        "o:id": 1
+    },
+    "o:resource_class": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_classes\/392",
+        "o:id": 392
+    },
+    "o:resource_template": {
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/resource_templates\/5",
+        "o:id": 5
+    },
+    "o:thumbnail": null,
+    "o:title": "ULTRA",
+    "thumbnail_display_urls": {
+        "large": null,
+        "medium": null,
+        "square": null
+    },
+    "o:created": {
+        "@value": "2021-11-21T12:26:38+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:modified": {
+        "@value": "2021-11-21T12:26:38+00:00",
+        "@type": "http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [{
+        "@id": "http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+        "o:id": 1
+    }],
+    "dcterms:title": [{
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "ULTRA"
+    }],
+    "dcterms:description": [{
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Absent depuis la sortie de son pr\u00e9c\u00e9dent album Tr\u00f4ne sorti en d\u00e9cembre 2017, il annonce le 4 novembre 2020, la parution de son 10e album, intitul\u00e9 ULTRA1.\n\nAvant cela, Booba a enregistr\u00e9 plusieurs singles depuis son dernier album : BB, Gotham, PGP, Arc-en-Ciel, Glaive, Cavaliero, Jaun\u00e9 en featuring avec Zed du groupe 13 Block, Dolce Vita en l\u0027honneur du d\u00e9funt George Floyd2 et derni\u00e8rement RATPI WORLD3. Aucun de ces titres ne figure sur l\u0027album. Il a enregistr\u00e9 de nombreux featurings notamment avec Maes, Leto ainsi que ses nouvelles signatures sur ses diff\u00e9rents labels : SDM, Bilton, JSX, Green Montana entre autres. Le 5 novembre \u00e0 minuit, Booba d\u00e9voile son titre 5G comme teaser et premier extrait de son nouvel album4.\n\nD\u00e9but janvier 2021, il annonce la date de sortie de ULTRA, qui est pr\u00e9vue pour le 5 mars 20215. \u00c0 la mi-f\u00e9vrier avant de mettre fin \u00e0 sa carri\u00e8re, il d\u00e9voile finalement la pochette de l\u0027album et annonce \u00e9galement que ce sera son dernier6. Fin f\u00e9vrier, il d\u00e9voile la liste des titress de l\u0027album qui contient des collaborations avec Maes, SDM, Bramsito, JSX, Gato, Dala et Elia7. La veille de la sortie de l\u0027album, le 4 mars 2021, il sort le clip Mona Lisa avec JSX8.\n\nIl confirme \u00e0 plusieurs reprises que cet album est le dernier de sa carri\u00e8re, mais n\u2019exclut pas et n\u0027a pas d\u00e9menti d\u0027\u00e9ventuelles sortie de singles. Il d\u00e9clare qu\u0027il va dor\u00e9navant se concentrer sur la production9 et la direction artistique de ses artistes."
+    }],
+    "mmmmo:duration": [{
+        "type": "literal",
+        "property_id": 536,
+        "property_label": "duration",
+        "is_public": true,
+        "@value": "41min"
+    }],
+    "dcterms:available": [{
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "2021"
+    }],
+    "mmmmo:producer": [{
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "BOOBA"
+    }],
+    "mmmmo:label": [{
+        "type": "literal",
+        "property_id": 444,
+        "property_label": "label",
+        "is_public": true,
+        "@value": "Tallac, 92i, Capitol, Universal"
+    }],
+    "mmmmo:image": [{
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https:\/\/angartwork.akamaized.net\/webp\/?id=138252935\u0026size=296"
+    }],
+    "mmmmo:download": [{
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https:\/\/www.deezer.com\/fr\/artist\/390"
+    }],
+    "mmmmo:track": [{
+        "type": "literal",
+        "property_id": 521,
+        "property_label": "track",
+        "is_public": true,
+        "@value": "| piste1 = GP \n| piste2 = Azerty\n| piste3 = RST\n| piste4 = Bonne journ\u00e9e\n| piste5 = Mona Lisa\n| piste6 = Je sais\n| piste7 = 5G\n| piste8 = Vue sur la mer\n| piste9 = L\u0027olivier\n| piste10 = VVV\n| piste11 = 31\n| piste12 = Ultra\n| piste13 = Grain de sable\n| piste14 = Derni\u00e8re fois"
+    }],
+    "mmmmo:track_number": [{
+        "type": "literal",
+        "property_id": 561,
+        "property_label": "track number",
+        "is_public": true,
+        "@value": "14"
+    }]
+}

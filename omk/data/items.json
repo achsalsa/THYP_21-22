@@ -1,0 +1,2176 @@
+[
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/1",
+    "@type": "o:Item",
+    "o:id": 1,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/2",
+      "o:id": 2
+    },
+    "o:thumbnail": null,
+    "o:title": "Arte concert festival",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-14T19:36:37+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-14T19:36:37+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Arte concert festival"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Descriptif\nRien n’arrête Arte qui revient pour une 5e édition de son Concert Festival ! Les comptes Facebook d’Arte Concert et de la Gaîté Lyrique donnent rendez-vous pour une série de concerts filmés en live ou issus d'éditions précédentes du fameux festival, ou d'enregistrements de prestations réalisées à l’étranger. Sébastien Tellier, Yelle, P.R2B, Ichon, Prudence ou encore Lous and the Yakuza sont au programme."
+      }
+    ],
+    "dcterms:audience": [
+      {
+        "type": "literal",
+        "property_id": 16,
+        "property_label": "Audience",
+        "is_public": true,
+        "@value": "Tout public"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "La Gaîté Lyrique 3 bis rue Papin - 75003 Paris"
+      }
+    ],
+    "dcterms:type": [
+      {
+        "type": "literal",
+        "property_id": 8,
+        "property_label": "Type",
+        "is_public": true,
+        "@value": "Festival | Concert | Musique - divers | Musique actuelle"
+      }
+    ],
+    "dcterms:creator": [
+      {
+        "type": "literal",
+        "property_id": 2,
+        "property_label": "Creator",
+        "is_public": true,
+        "@value": "Arte"
+      }
+    ],
+    "dcterms:language": [
+      {
+        "type": "literal",
+        "property_id": 12,
+        "property_label": "Language",
+        "is_public": true,
+        "@value": "Francais"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/2",
+    "@type": "o:Item",
+    "o:id": 2,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/2",
+      "o:id": 2
+    },
+    "o:thumbnail": null,
+    "o:title": "Illuminations des Champs-Elysées",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-14T19:43:43+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-14T19:43:43+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Illuminations des Champs-Elysées"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "La chanteuse et actrice Louane lance les éclairages de la plus belle avenue du monde le 22 novembre 2020. Pour accompagner en direct son embrasement de guirlandes et lumières scintillantes, chacun doit s’inscrire en ligne avant le 21 novembre et se tenir prêt pour le live du lendemain à 18h30 puis le lancement des illuminations à 19h05.\n\nSite Internet de l’événement"
+      }
+    ],
+    "dcterms:audience": [
+      {
+        "type": "literal",
+        "property_id": 16,
+        "property_label": "Audience",
+        "is_public": true,
+        "@value": "Tout public"
+      }
+    ],
+    "dcterms:creator": [
+      {
+        "type": "literal",
+        "property_id": 2,
+        "property_label": "Creator",
+        "is_public": true,
+        "@value": "Louane"
+      }
+    ],
+    "dcterms:date": [
+      {
+        "type": "literal",
+        "property_id": 7,
+        "property_label": "Date",
+        "is_public": true,
+        "@value": "du 22 novembre 2020 au 06 janvier 2021"
+      }
+    ],
+    "dcterms:language": [
+      {
+        "type": "literal",
+        "property_id": 12,
+        "property_label": "Language",
+        "is_public": true,
+        "@value": "francais"
+      }
+    ],
+    "dcterms:spatial": [
+      {
+        "type": "literal",
+        "property_id": 40,
+        "property_label": "Spatial Coverage",
+        "is_public": true,
+        "@value": "Avenue des Champs-Élysées\nSurnommée \"la plus belle avenue du monde\", l’avenue des Champs-Élysées est une étape incontournable d’une visite de la capitale. Touristes et parisiens flânent à toute heure du jour et de la nuit, été comme hiver, sur cette portion emblématique de presque 2 kilomètres, entre la place de la Concorde et l’Arc de Triomphe. Symbole de Paris, au même titre que la tour Eiffel, elle regorge de restaurants (L’Atelier Renault, Ledoyen…), d’enseignes de luxe (Louis Vuitton, Mont-Blanc, Guerlain, showroom Ferrari …), de flagships de boutiques diverses (Abercrombie, Sephora…) et de clubs. Elle sert de cadre, chaque année, aux plus grands événements populaires : défilé du 14 juillet, arrivée du tour France, illuminations de Noël, entre autres. L’avenue des Champs-Elysées est aussi marquée par la présence de grands musées : les Grand et Petit Palais, le Palais de la Découverte, l’espace culturel Louis Vuitton. Depuis le 12 mars 2019, les fontaines du rond-point des Champs-Élysées ont retrouvé tout leur éclat grâce aux frères Bourroulec et leurs six créations de bronze et de cristal, d'une hauteur de 13 mètres. Le clou de la visite : l’ascension de l’Arc de Triomphe, au sommet duquel la vue panoramique est spectaculaire !"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/3",
+    "@type": "o:Item",
+    "o:id": 3,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/2",
+      "o:id": 2
+    },
+    "o:thumbnail": null,
+    "o:title": "Philharmonie Live, des concerts gratuits en ligne",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-14T19:51:16+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-14T19:51:16+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Philharmonie Live, des concerts gratuits en ligne"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Descriptif\nEn décembre, la culture est à l’honneur au Carreau du Temple. Après 12 ans au Bassin de la Villette, s’y déroule le festival Culture au quai où 250 théâtres, musées, collectivités et salles de concert de toute la France viennent présenter leur saison culturelle.\n\nAu-delà des stands, de nombreuses activités sont proposées : démonstrations de cirque, ateliers, concerts en tout genre, théâtre jeune public en anglais, initiations au street art, scène ouverte, danse, chant… De quoi donner des airs de vacances à la rentrée !"
+      }
+    ],
+    "dcterms:audience": [
+      {
+        "type": "literal",
+        "property_id": 16,
+        "property_label": "Audience",
+        "is_public": true,
+        "@value": "Tout public, Enfants, Jeunes"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "du 14 décembre 2020 au 15 décembre 2020"
+      }
+    ],
+    "dcterms:type": [
+      {
+        "type": "literal",
+        "property_id": 8,
+        "property_label": "Type",
+        "is_public": true,
+        "@value": "festival"
+      }
+    ],
+    "dcterms:date": [
+      {
+        "type": "literal",
+        "property_id": 7,
+        "property_label": "Date",
+        "is_public": true,
+        "@value": "du 14 décembre 2020 au 15 décembre 2020"
+      }
+    ],
+    "dcterms:format": [
+      {
+        "type": "literal",
+        "property_id": 9,
+        "property_label": "Format",
+        "is_public": true,
+        "@value": "festival"
+      }
+    ],
+    "dcterms:language": [
+      {
+        "type": "literal",
+        "property_id": 12,
+        "property_label": "Language",
+        "is_public": true,
+        "@value": "Le Carreau du Temple "
+      }
+    ],
+    "dcterms:spatial": [
+      {
+        "type": "literal",
+        "property_id": 40,
+        "property_label": "Spatial Coverage",
+        "is_public": true,
+        "@value": "4 rue Eugène Spuller - 75003 Paris"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/4",
+    "@type": [
+      "o:Item",
+      "dctype:PhysicalObject"
+    ],
+    "o:id": 4,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/32",
+      "o:id": 32
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/3",
+      "o:id": 3
+    },
+    "o:thumbnail": null,
+    "o:title": "CLOS VENTURI ROUGE 2018- AOP CORSE",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-14T20:01:48+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-14T20:01:48+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "CLOS VENTURI ROUGE 2018- AOP CORSE"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Clos Venturi rouge 2018- Corse AOP -75 cl      \nElégance et caractère pour la version rouge de l'AOP Corse Clos Venturi. La cuvée phare du Domaine offre une texture soyeuse, des arômes vibrants de petites baies et fruits à parfaite maturité, cassis, cerises, délicatement relevés de notes boisées et d'épices. La finale, de bonne persistance, laisse apparaitre de délicates nuances réglissées.\nUne cuvée précise, soignée, à l'image du travail et de l'exigence du Clos Venturi."
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:locatedIn": [
+      {
+        "type": "literal",
+        "property_id": 213,
+        "property_label": "locatedIn",
+        "is_public": true,
+        "@value": "Corse"
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:hasBody": [
+      {
+        "type": "literal",
+        "property_id": 220,
+        "property_label": "hasBody",
+        "is_public": true,
+        "@value": "Rubis profonde"
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:hasColor": [
+      {
+        "type": "literal",
+        "property_id": 222,
+        "property_label": "hasColor",
+        "is_public": true,
+        "@value": "Couleur Rouge"
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:hasFlavor": [
+      {
+        "type": "literal",
+        "property_id": 221,
+        "property_label": "hasFlavor",
+        "is_public": true,
+        "@value": "intense, petits fruits noirs et rouges bien murs"
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:hasMaker": [
+      {
+        "type": "literal",
+        "property_id": 223,
+        "property_label": "hasMaker",
+        "is_public": true,
+        "@value": "Propriétaire Famille Acquaviva-Venturi\nMaître de chai Guillermier Fabien"
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:madeFromGrape": [
+      {
+        "type": "literal",
+        "property_id": 216,
+        "property_label": "madeFromGrape",
+        "is_public": true,
+        "@value": "suave et fruité, tanins bien présents et longue finale aux nuances réglissées"
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:adjacentRegion": [
+      {
+        "type": "literal",
+        "property_id": 214,
+        "property_label": "adjacentRegion",
+        "is_public": true,
+        "@value": "Corse"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/5",
+    "@type": [
+      "o:Item",
+      "dctype:PhysicalObject"
+    ],
+    "o:id": 5,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/32",
+      "o:id": 32
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/3",
+      "o:id": 3
+    },
+    "o:thumbnail": null,
+    "o:title": "Bordeaux AOC 2020 Château Pericou",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-14T20:07:25+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-14T20:07:25+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Bordeaux AOC 2020 Château Pericou"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Château Pericou tire son nom du domaine homonyme situé dans la partie la plus périphérique des Côtes de Blaye, à Bordeaux. Un terroir aux sols graveleux, argileux et calcaires qui assurent un excellent drainage et favorisent la concentration des substances dans les raisins.\nIl est produit en grande partie avec des raisins Merlot rejoints par le Cabernet Sauvignon et le Cabernet Franc, tous issus de vignobles d'au moins 30 ans. Une vinification traditionnelle permet de mettre en valeur la profondeur enchanteresse du fruit et les tanins qui le soutiennent.\nDe couleur grenat intense, il révèle des notes de prune, de mûre et de cassis au nez, avec d'agréables notes de rose. En bouche, il est doux et mature, complexe et évolué.\nExcellent à combiner avec toutes les recettes de viande, blanches et rouges."
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:locatedIn": [
+      {
+        "type": "literal",
+        "property_id": 213,
+        "property_label": "locatedIn",
+        "is_public": true,
+        "@value": "Bordeaux"
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:hasBody": [
+      {
+        "type": "literal",
+        "property_id": 220,
+        "property_label": "hasBody",
+        "is_public": true,
+        "@value": "Moyen"
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:hasColor": [
+      {
+        "type": "literal",
+        "property_id": 222,
+        "property_label": "hasColor",
+        "is_public": true,
+        "@value": "rouge"
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:hasFlavor": [
+      {
+        "type": "literal",
+        "property_id": 221,
+        "property_label": "hasFlavor",
+        "is_public": true,
+        "@value": "Cassis, framboise bleue, prune, Rose\n"
+      }
+    ],
+    "http://www.w3.org/TR/2003/PR-owl-guide-20031209/wine:hasMaker": [
+      {
+        "type": "literal",
+        "property_id": 223,
+        "property_label": "hasMaker",
+        "is_public": true,
+        "@value": "Château Pericou"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/7",
+    "@type": [
+      "o:Item",
+      "mmmmo:MusicArtist"
+    ],
+    "o:id": 7,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/415",
+      "o:id": 415
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/4",
+      "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Sting",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-21T10:20:43+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T10:31:35+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Sting"
+      }
+    ],
+    "foaf:firstName": [
+      {
+        "type": "literal",
+        "property_id": 139,
+        "property_label": "firstName",
+        "is_public": true,
+        "@value": "Gordon Matthew Thomas"
+      }
+    ],
+    "foaf:familyName": [
+      {
+        "type": "literal",
+        "property_id": 145,
+        "property_label": "familyName",
+        "is_public": true,
+        "@value": "Sumner"
+      }
+    ],
+    "foaf:birthday": [
+      {
+        "type": "literal",
+        "property_id": 182,
+        "property_label": "birthday",
+        "is_public": true,
+        "@value": "2 octobre 1951"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Sting, de son vrai nom Gordon Matthew Thomas Sumner, né le 2 octobre 1951 à Wallsend (North Tyneside), est un auteur-compositeur-interprète et musicien britannique, brièvement instituteur et occasionnellement acteur. Il a acquis la célébrité à la fin des années 1970 au sein du groupe pop-rock The Police en tant que bassiste et chanteur avant de connaître également le succès en menant une carrière en solo à partir de 1985."
+      }
+    ],
+    "mmmmo:activity": [
+      {
+        "type": "literal",
+        "property_id": 400,
+        "property_label": "activity",
+        "is_public": true,
+        "@value": "Auteur-compositeur-interprète, chanteur, guitariste, bassiste, producteur de musique et acteur"
+      }
+    ],
+    "mmmmo:image": [
+      {
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sting_at_the_2009_Tribeca_Film_Festival.jpg"
+      }
+    ],
+    "mmmmo:genre": [
+      {
+        "type": "literal",
+        "property_id": 433,
+        "property_label": "genre",
+        "is_public": true,
+        "@value": "\tRock, Pop, new wave, jazz, new age, blue-eyed soul, reggae, Smooth jazz"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1974"
+      }
+    ],
+    "mmmmo:instrument": [
+      {
+        "type": "literal",
+        "property_id": 440,
+        "property_label": "instrument",
+        "is_public": true,
+        "@value": "Fender Precision Bass guitare"
+      }
+    ],
+    "mmmmo:biography": [
+      {
+        "type": "literal",
+        "property_id": 407,
+        "property_label": "biography",
+        "is_public": true,
+        "@value": "\nFils aîné d'Ernest Sumner (1926-1987), ouvrier naval devenu livreur de lait pour échapper à la crise de ce secteur, et d'Audrey Cowell (1931-1987), coiffeuse2, Gordon Matthew Thomas Sumner a un frère, Philip, et deux sœurs, Angela et Anita3.\n\nIl se passionne tôt pour la musique, encouragé par sa mère, pianiste amateur, mais sans l'approbation de son père qui veut le voir faire un « vrai métier ». Au début des années 1960, il découvre la guitare que son oncle a laissée dans sa maison et se saigne les doigts à apprendre à jouer de cet instrument4.\n\nIl fait donc ses premières armes musicales à la guitare, mais découvre aussi le piano, la mandoline, le saxophone, l'harmonica et la flûte de Pan.\n\nIl suit les cours du Northern Counties College of Education de 1971 à 1974, puis est instituteur pendant deux ans à la St. Paul's Middle School de Cramlington. C'est pendant ces années qu'il joue avec des groupes de jazz le soir et les week-ends. Son surnom de « Sting » lui est attribué en 1972 après le concert d'un de ses groupes, The Phoenix Jazzmen, alors qu'il porte un pull noir à rayures jaunes sur scène : le trombone et leader du groupe, Gordon Soloman5, trouve qu'il ressemblait à une guêpe d'où le nom (« Sting » veut dire « dard » ou « piqûre »)6 (Soloman faisant probablement référence aussi à ses performances sexuelles7).\n\nThe Phoenix Jazzmen décident finalement de mettre fin à leur répertoire de reprises et d'interpréter leurs propres compositions. À la surprise générale, Sting ne connaît pas le solfège et est provisoirement renvoyé. Il apprend le solfège en une trentaine de jours mais déjà remplacé, il ne pourra pas réintégrer le groupe.\n\nEn 1976, alors que Sting est le contrebassiste et chanteur du groupe Last Exit, Stewart Copeland, cherchant alors un bassiste, le découvre lors d'un concert et lui propose de former un groupe avec le guitariste français Henry Padovani (ce dernier étant remplacé plus tard par Andy Summers). Le groupe s'appellera The Police et le trio connaîtra un succès mondial. Leur premier succès, Roxanne installe le groupe en haut des classements musicaux, place qu'il retrouvera tout au long de sa carrière.\n\nEn 1979, Sting fait ses débuts au grand écran dans l'adaptation cinématographique de l'opéra-rock Quadrophenia (du groupe The Who).\n\nThe Police connaît un grand succès mondial à travers ses cinq albums : Outlandos d'Amour (1978), Reggatta de Blanc (1979), Zenyattà Mondatta (1980), Ghost in the Machine (1981), et Synchronicity (1983) qui contient notamment le plus grand succès de l'année 1983, la chanson de Sting Every Breath You Take. Le groupe se lance dans le Synchronicity Tour qui comprend 105 dates et débute le 23 juillet 1983 à Chicago. Comme lors de la précédente tournée, Sting impose au groupe des choristes. La tournée connaît son apogée le 7 août 1983 au Shea Stadium à New York où le groupe joue devant plus de 70 000 personnes. À la fin de ce concert exceptionnel, Sting annonce au public : « Nous voulons remercier les Beatles pour nous avoir prêté leur stade »8 et dira ensuite « Durant notre show, j'ai pensé, voilà, c'est terminé, on ne pourra jamais faire mieux que ça. C'est là que j'ai décidé d'arrêter le groupe »8 Sting annonce donc à Stewart Copeland et Andy Summers qu'il souhaite arrêter.\n\nUn concert est enregistré à Atlanta le 13 et le 14 novembre 1983, au plus fort de la tournée. Il sort en film en 1984, et en 1995 sur le deuxième CD de l'album Live! À la fin de la tournée, le 4 mars 1984 à Melbourne, le groupe annonce qu'il fait une pause et qu'il prend une année sabbatique au bout de laquelle il ne se reformera pas. Un premier rendez-vous est pourtant prévu en juillet 1984 mais Sting, Andy Summers et Stewart Copeland « oublient » de se retrouver en studio pour enregistrer leur sixième album. Les tensions au sein du groupe atteignent le point de non-retour. Sting tourne pendant l'été 1984 dans The Bride de Franc Roddam où il joue le rôle du Baron Victor Frankenstein. Au printemps 1985, Sting enregistre son premier album solo The Dream of the Blue Turtles avec des musiciens issus du jazz, le pianiste Kenny Kirkland, le saxophoniste Branford Marsalis, le bassiste Darryl Jones et le batteur Omar Hakim ainsi que les choristes Dolette McDonald et Janice Pendarvis et démarre une carrière solo. Un film sera tourné en 1986 coïncidant avec la naissance de son nouveau groupe et s'intitulera Bring On the Night.\n\nEn février 2007, Sting annonce que le groupe The Police se reforme et entame une tournée mondiale. Les 29 et 30 septembre 2007, lors des concerts au stade de France, le groupe offre une surprise à ses fans français, en faisant monter sur scène Henry Padovani pour reprendre Next to you.\n\nThe Dream of the Blue Turtles, sort en 1985 et comporte des chansons engagées comme Russians et Children's Crusade, et des sonorités plus jazzy comme sur If You Love Somebody Set Them Free, Children's Crusade ou encore Consider Me Gone. La même année, il fait les chœurs sur la chanson Money for Nothing de Dire Straits pour laquelle il est crédité comme coauteur avec Mark Knopfler car elle incorpore la mélodie de Don't Stand So Close to Me.\n\nSon deuxième album, …Nothing Like the Sun, sort en 1987, plus rock mais avec des reliquats jazz (Englishman in New York avec le saxophoniste Branford Marsalis). Il reprend aussi un titre de Jimi Hendrix, Little Wing avec Gil Evans. Sting est un des premiers artistes à dénoncer le régime de Pinochet9 (They Dance Alone). Le funk revient avec We'll Be Together. Sting s'entoure de musiciens comme Eric Clapton, Hiram Bullock et Mark Knopfler, et voit une nouvelle collaboration avec Andy Summers. Si sur son premier album il ne jouait que de la guitare, ici il joue également de la basse sur History Will Teach us Nothing et Fragile.\n\nL'album suivant, The Soul Cages, marque un virage rock bien entamé à travers le recrutement du guitariste Dominic Miller, sur lequel il aborde des questions métaphysiques à la suite du décès de son père, en allant puiser l'inspiration dans ses souvenirs d'enfance à Newcastle. Cet album a moins de succès critique, malgré la réussite de la tournée qui suit avec notamment la première apparition de Vinnie Colaiuta à la batterie qui deviendra un habitué de son groupe.\n\n"
+      }
+    ],
+    "mmmmo:download": [
+      {
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https://www.deezer.com/fr/artist/368"
+      }
+    ],
+    "mmmmo:group": [
+      {
+        "type": "literal",
+        "property_id": 434,
+        "property_label": "group",
+        "is_public": true,
+        "@value": "The Police"
+      }
+    ],
+    "mmmmo:producer": [
+      {
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Sting"
+      }
+    ],
+    "mmmmo:wikipedia": [
+      {
+        "type": "literal",
+        "property_id": 529,
+        "property_label": "wikipedia",
+        "is_public": true,
+        "@value": "https://fr.wikipedia.org/wiki/Sting"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/8",
+    "@type": [
+      "o:Item",
+      "mmmmo:MusicArtist"
+    ],
+    "o:id": 8,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/415",
+      "o:id": 415
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/4",
+      "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Chester Bennington",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-21T10:42:28+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T10:42:28+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Chester Bennington"
+      }
+    ],
+    "foaf:firstName": [
+      {
+        "type": "literal",
+        "property_id": 139,
+        "property_label": "firstName",
+        "is_public": true,
+        "@value": "Chester Charles"
+      }
+    ],
+    "foaf:familyName": [
+      {
+        "type": "literal",
+        "property_id": 145,
+        "property_label": "familyName",
+        "is_public": true,
+        "@value": "Bennington"
+      }
+    ],
+    "foaf:birthday": [
+      {
+        "type": "literal",
+        "property_id": 182,
+        "property_label": "birthday",
+        "is_public": true,
+        "@value": "20 mars 1976"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Chester Bennington, né le 20 mars 1976 à Phoenix (Arizona), et mort le 20 juillet 2017 à Palos Verdes Estates (Californie), est un chanteur américain. Il a été le chanteur principal du groupe de nu metal Linkin Park, du groupe Dead by Sunrise dont il était le fondateur et, de mai 2013 à novembre 2015, du groupe Stone Temple Pilots."
+      }
+    ],
+    "mmmmo:activity": [
+      {
+        "type": "literal",
+        "property_id": 400,
+        "property_label": "activity",
+        "is_public": true,
+        "@value": "Chanteur\nCompositeur"
+      }
+    ],
+    "mmmmo:image": [
+      {
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Linkin_Park-Rock_im_Park_2014-_by_2eight_3SC0327.jpg?uselang=fr"
+      }
+    ],
+    "mmmmo:genre": [
+      {
+        "type": "literal",
+        "property_id": 433,
+        "property_label": "genre",
+        "is_public": true,
+        "@value": "Nu metal, rock alternatif, metal alternatif, rap rock, grunge"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1993"
+      }
+    ],
+    "mmmmo:instrument": [
+      {
+        "type": "literal",
+        "property_id": 440,
+        "property_label": "instrument",
+        "is_public": true,
+        "@value": "Chant, guitare, claviers"
+      }
+    ],
+    "mmmmo:biography": [
+      {
+        "type": "literal",
+        "property_id": 407,
+        "property_label": "biography",
+        "is_public": true,
+        "@value": "Chester Charles Bennington naît le 20 mars 1976 à Phoenix en Arizona, d'un père policier et d'une mère infirmière. Chester a deux grandes sœurs et un demi-frère, Brian, de 13 ans son aîné. Il étudie au collège de Greenway et au lycée de Washington, où il est diplômé en 1994. Enfant, Chester chante dans toute la maison en s'imaginant être le cinquième membre de Depeche Mode. Chester est abusé sexuellement par un ami de la famille alors qu'il n'a que 7 ans1. Ses parents divorcent alors qu'il n'a que 11 ans. Il sombre alors dans la drogue. Dès ce moment et jusqu'à ses 16 ans, Chester a admis avoir été accro au cannabis, puis à la cocaïne et à la méthamphétamine . Il n'a jamais caché son alcoolisme et ses addictions à la drogue, se décrivant lui-même comme un junkie2.\n\nAvant sa carrière musicale, il vit grâce à des petits boulots : assistant dans une entreprise de services numériques, il travaille également dans un bar. (Chester a sa propre idée de la religion : « Je crois en Dieu mais je ne pratique, prêche ou discute pas ouvertement de ma propre idée »\n\nLe 20 juillet 2017, le chanteur a été retrouvé mort par un employé, pendu dans sa résidence à Palos Verdes Estates en Californie10. Le médecin légiste confirme un suicide.\n\nLa presse rapporte qu'il a été profondément ébranlé par le suicide de son ami Chris Cornell survenu deux mois plus tôt, en mai 2017. Chester Bennington avait d'ailleurs écrit en substance dans une lettre : « Je ne peux imaginer un monde sans toi »11. Les médias soulignent d'ailleurs que le 20 juillet était l'anniversaire de Chris Cornell12. Le 29 juillet 2017, une cérémonie funéraire a eu lieu au Jardin Botanique de South Coast à Palos Verdes Estates en Californie en présence de nombreux musiciens de la scène rock.\n\nLe 27 octobre suivant à Los Angeles, les cinq autres membres du groupe Linkin Park organisent un concert hommage au Hollywood Bowl. Participent à ce concert entre autres : Jonathan Davis, M. Shadows et Synyster Gates du groupe Avenged Sevenfold, Kiiara, Takahiro Morita du groupe One Ok Rock, Oliver Sykes, Machine Gun Kelly, Deryck Whibley et Frank Zummo du groupe Sum 41, Blink-182, Ryan Key, Alanis Morissette, Gavin Rossdale, Steve Aoki13.\n\nChester a six enfants : quatre garçons et deux filles (des jumelles). Jaime Bennington, son fils ainé, est né le 12 mai 1996 de sa relation avec sa petite amie de l'époque Elka Brand14. Isaiah Bennington est né le 8 novembre 1997. Isaiah est le fils d'Elka Brand mais n'est pas le fils biologique de Chester. Chester s'était séparé d'Elka Brand en 1996 pour se marier avec sa première femme Samantha Marie Olit. Il adoptera cependant officiellement Isaiah en 200614.\n\nLe 31 octobre 1996, alors âgé de 20 ans, Chester se marie avec Samantha Marie Olit. N'ayant pas assez d'argent pour se permettre un vrai mariage, Chester travaillant alors dans un restaurant de l'enseigne Burger King5, et s'acheter des alliances, ils se sont fait tatouer celles-ci sur leurs doigts14. Ensemble ils ont un fils Draven Sebastian Bennington, né en 200214. Le 2 mai 2005, après huit ans et demi de mariage, le couple divorce. Alors très affecté par sa précédente rupture, Chester rencontre Talinda Ann Bentley grâce à un ami commun. Chester dira qu'il a tout de suite su que c'était la femme de sa vie14. Ils emménagent ensemble au bout d'une semaine et se marient le 31 décembre 2005. Ensemble, ils ont un garçon, Tyler Lee, né en 2006 et des jumelles, Lily et Lila, nées en 201114.\n\nChester était un fan de l'équipe de NBA des Phoenix Suns, tandis que Mike Shinoda, autre chanteur du groupe Linkin Park, supportait lui les Lakers5.\n\n"
+      }
+    ],
+    "mmmmo:download": [
+      {
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https://www.deezer.com/fr/artist/1490547"
+      }
+    ],
+    "mmmmo:group": [
+      {
+        "type": "literal",
+        "property_id": 434,
+        "property_label": "group",
+        "is_public": true,
+        "@value": "linkin park"
+      }
+    ],
+    "mmmmo:producer": [
+      {
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Chester Bennington"
+      }
+    ],
+    "mmmmo:wikipedia": [
+      {
+        "type": "literal",
+        "property_id": 529,
+        "property_label": "wikipedia",
+        "is_public": true,
+        "@value": "https://fr.wikipedia.org/wiki/Chester_Bennington"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/9",
+    "@type": [
+      "o:Item",
+      "mmmmo:MusicArtist"
+    ],
+    "o:id": 9,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/415",
+      "o:id": 415
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/4",
+      "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Renaud",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-21T11:08:09+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T13:05:58+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Renaud"
+      }
+    ],
+    "foaf:firstName": [
+      {
+        "type": "literal",
+        "property_id": 139,
+        "property_label": "firstName",
+        "is_public": true,
+        "@value": "Renaud"
+      }
+    ],
+    "foaf:familyName": [
+      {
+        "type": "literal",
+        "property_id": 145,
+        "property_label": "familyName",
+        "is_public": true,
+        "@value": "Séchan"
+      }
+    ],
+    "foaf:birthday": [
+      {
+        "type": "literal",
+        "property_id": 182,
+        "property_label": "birthday",
+        "is_public": true,
+        "@value": "11 mai 1952"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Renaud Séchan, dit Renaud, né le 11 mai 1952 à Paris, est un auteur-compositeur-interprète français.\n\nAvec vingt-six albums commercialisés, totalisant près de vingt millions d'exemplaires vendus, il est l'un des chanteurs les plus populaires de France. Ses œuvres, aux textes volontiers émaillés d'argot, abordent des thèmes aussi bien légers que graves, faisant alterner humour, émotion et critique sociale.\n\nIl joue également dans plusieurs films, notamment en 1993 dans l'adaptation de Germinal par Claude Berri.\n\nAlors que ses prises de position suscitent des polémiques, il s'est lui-même surnommé « le chanteur énervant » en raison de ses multiples engagements pour des causes comme les droits de l'homme, l'écologisme ou l'antimilitarisme qui transparaissent fréquemment dans ses chansons."
+      }
+    ],
+    "mmmmo:activity": [
+      {
+        "type": "literal",
+        "property_id": 400,
+        "property_label": "activity",
+        "is_public": true,
+        "@value": "Auteur-compositeur-interprète\nActeur\nÉcrivain"
+      }
+    ],
+    "mmmmo:image": [
+      {
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Renaud%2C_2017_%28cropped%29.jpg"
+      }
+    ],
+    "mmmmo:genre": [
+      {
+        "type": "literal",
+        "property_id": 433,
+        "property_label": "genre",
+        "is_public": true,
+        "@value": "Chanson française, pop rock, folk"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1968"
+      }
+    ],
+    "mmmmo:discography": [
+      {
+        "type": "resource",
+        "property_id": 418,
+        "property_label": "discography",
+        "is_public": true,
+        "@id": "http://localhost:8888/omeka/api/items/15",
+        "value_resource_id": 15,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "Laisse béton"
+      },
+      {
+        "type": "resource",
+        "property_id": 418,
+        "property_label": "discography",
+        "is_public": true,
+        "@id": "http://localhost:8888/omeka/api/items/16",
+        "value_resource_id": 16,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "Ma gonzesse"
+      },
+      {
+        "type": "resource",
+        "property_id": 418,
+        "property_label": "discography",
+        "is_public": true,
+        "@id": "http://localhost:8888/omeka/api/items/14",
+        "value_resource_id": 14,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "Amoureux de Paname"
+      }
+    ],
+    "mmmmo:instrument": [
+      {
+        "type": "literal",
+        "property_id": 440,
+        "property_label": "instrument",
+        "is_public": true,
+        "@value": "Chant, guitare, accordéon, harmonica"
+      }
+    ],
+    "mmmmo:biography": [
+      {
+        "type": "literal",
+        "property_id": 407,
+        "property_label": "biography",
+        "is_public": true,
+        "@value": "Renaud Pierre Manuel Séchan naît le 11 mai 19522 à 3 h 30, dans le 15e arrondissement de Paris, dix minutes après son frère David. Sa mère a choisi le prénom Renaud3, parce que sa grand-mère et sa mère lui chantaient La complainte du Roi Renaud, et elle trouvait cela tellement triste qu'elle pleurait à chaque fois4.\n\nSon père, Olivier (1911-2006), professeur d'allemand et de néerlandais, traducteur et auteur de romans policiers et de livres pour enfants, est originaire d'une famille protestante des Cévennes5. Il a reçu le prix des Deux Magots en 1942 pour Les corps ont soif et a travaillé pendant la Seconde Guerre mondiale à Radio-Paris (radio collaboratrice) comme traducteurn 1. Il a donné à Renaud le goût de l'écriture, l'amour de la vérité et une éducation protestante puritaine7.\n\nSa mère, Solange Mériaux (1922-2019), née dans une famille de mineurs du Nord, était ouvrière dans une usine de Saint-Étienne avant de devenir femme au foyer lorsqu'elle se marie à vingt ans. Au démarrage de la vie artistique de Renaud, elle travaille alors comme secrétaire chez Leica à Rueil-Malmaison. Elle lui a apporté chaleur, simplicité des rapports et l'amour de la rue7.\n\nRenaud est le sixième des huit enfants qu'a eus son père. Il a deux frères : David, un faux jumeau et l'écrivain Thierry Séchan (1949-2019), ainsi que deux sœurs : Nelly (1947-2021) et Sophie (née en 1956) ; il a aussi deux demi-sœurs, Christine, (née en 1941) et Catherine (décédée en 1939), ainsi qu'un demi-frère, Nicolas (né en 1935), enfants de son père Olivier et de sa première épouse, Renée Vincent, née en 1913 et décédée avec Nicolas dans un bombardement américain, lors du Débarquement de Normandie, le 7 juin 1944 à Falaise. C'est à 12 ans, en 1964, que Renaud découvre que sa sœur Christine est en fait sa demi-sœur et à 64 ans, en 2016, lorsqu'il veut voir la tombe de son demi-frère Nicolas et de Renée Vincent, qu'il découvre qu'il avait une autre demi-sœur, Catherine, décédée le 10 février 1939 d'une maladie infantile8,9,10.\n\nSon grand-père paternel, Louis Séchan, était un helléniste français renommé, professeur à la faculté des lettres de Parisn 2, auteur de divers ouvrages et dont l'épouse, Isabelle Bost, était, par son père, la petite-fille d'Ami Bost12 et la nièce de John Bost et, par sa mère, la nièce de Louisa Siefert (arrière-grand-tante de Renaud), qui connut Arthur Rimbaud11.\n\nSon grand-père maternel, Oscar Mériaux, mineur après avoir quitté l’école à l'âge de 13 ans, fut d'abord membre du Parti communiste, puis le quitta en 1937, déçu après un voyage en Union soviétique en 1932[réf. nécessaire]. Il rejoignit ensuite le Parti populaire français, parti fondé par Jacques Doriot, et fit un an de prison à la Libération pour faits de collaborationn 3."
+      }
+    ],
+    "mmmmo:download": [
+      {
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https://www.deezer.com/fr/artist/21"
+      }
+    ],
+    "mmmmo:producer": [
+      {
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Renaud"
+      }
+    ],
+    "mmmmo:wikipedia": [
+      {
+        "type": "literal",
+        "property_id": 529,
+        "property_label": "wikipedia",
+        "is_public": true,
+        "@value": "https://fr.wikipedia.org/wiki/Renaud"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/10",
+    "@type": [
+      "o:Item",
+      "mmmmo:MusicArtist"
+    ],
+    "o:id": 10,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/415",
+      "o:id": 415
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/4",
+      "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Enrico Macias",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-21T11:16:54+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T11:16:54+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Enrico Macias"
+      }
+    ],
+    "foaf:firstName": [
+      {
+        "type": "literal",
+        "property_id": 139,
+        "property_label": "firstName",
+        "is_public": true,
+        "@value": "Gaston"
+      }
+    ],
+    "foaf:familyName": [
+      {
+        "type": "literal",
+        "property_id": 145,
+        "property_label": "familyName",
+        "is_public": true,
+        "@value": "Ghrenassia"
+      }
+    ],
+    "foaf:birthday": [
+      {
+        "type": "literal",
+        "property_id": 182,
+        "property_label": "birthday",
+        "is_public": true,
+        "@value": "11 décembre 1938"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Enrico Macias, né Gaston Ghrenassia le 11 décembre 1938 à Constantine (Algérie)2,3, est un chanteur, musicien, compositeur et acteur français."
+      }
+    ],
+    "mmmmo:activity": [
+      {
+        "type": "literal",
+        "property_id": 400,
+        "property_label": "activity",
+        "is_public": true,
+        "@value": "Chanteur\nCompositeur\nActeur"
+      }
+    ],
+    "mmmmo:image": [
+      {
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https://upload.wikimedia.org/wikipedia/commons/3/35/Enrico_Macias_2016.jpg"
+      }
+    ],
+    "mmmmo:genre": [
+      {
+        "type": "literal",
+        "property_id": 433,
+        "property_label": "genre",
+        "is_public": true,
+        "@value": "Musique arabo-andalouse, world music, variété française"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1962"
+      }
+    ],
+    "mmmmo:instrument": [
+      {
+        "type": "literal",
+        "property_id": 440,
+        "property_label": "instrument",
+        "is_public": true,
+        "@value": "Guitare, oud"
+      }
+    ],
+    "mmmmo:biography": [
+      {
+        "type": "literal",
+        "property_id": 407,
+        "property_label": "biography",
+        "is_public": true,
+        "@value": "Gaston Ghrenassia4 est le fils de Sylvain Ghrenassia et Suzanne Zaouch, famille juive d'Algérie, musiciens de malouf5. Il se définit lui-même comme juif « d'origine berbère »6 d'Aïn Abid. Son père est violoniste dans l’orchestre de Raymond Leyris dit Cheikh Raymond (son futur beau-père) ; il apprend la guitare avec son cousin Jean-Pierre, mais aussi avec des amis gitans qui lui donnent le surnom de « petit Enrico », son futur prénom d’artiste. Son nom d’artiste résulte d’une erreur de la secrétaire de la maison de disques qui a mal compris son nom au téléphone et le baptise « Macias », alors qu’Enrico lui avait soufflé « Nassia »"
+      }
+    ],
+    "mmmmo:download": [
+      {
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https://www.deezer.com/fr/artist/10397"
+      }
+    ],
+    "mmmmo:producer": [
+      {
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Enrico Macias"
+      }
+    ],
+    "mmmmo:wikipedia": [
+      {
+        "type": "literal",
+        "property_id": 529,
+        "property_label": "wikipedia",
+        "is_public": true,
+        "@value": "https://fr.wikipedia.org/wiki/Enrico_Macias"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/11",
+    "@type": [
+      "o:Item",
+      "mmmmo:MusicArtist"
+    ],
+    "o:id": 11,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/415",
+      "o:id": 415
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/4",
+      "o:id": 4
+    },
+    "o:thumbnail": null,
+    "o:title": "Booba",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-21T11:28:17+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T12:28:32+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Booba"
+      }
+    ],
+    "foaf:firstName": [
+      {
+        "type": "literal",
+        "property_id": 139,
+        "property_label": "firstName",
+        "is_public": true,
+        "@value": "Élie"
+      }
+    ],
+    "foaf:familyName": [
+      {
+        "type": "literal",
+        "property_id": 145,
+        "property_label": "familyName",
+        "is_public": true,
+        "@value": "Yaffa"
+      }
+    ],
+    "foaf:birthday": [
+      {
+        "type": "literal",
+        "property_id": 182,
+        "property_label": "birthday",
+        "is_public": true,
+        "@value": "9 décembre 1976"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Booba, de son vrai nom Élie Yaffa, né le 9 décembre 1976 à Boulogne-Billancourt, est un rappeur et homme d’affaire français. Il est le fondateur du 92i, collectif regroupant initialement des rappeurs issus des Hauts-de-Seine, tels Mala et Bram's ; il est également membre du groupe de rap français Lunatic, avec son ancien acolyte Ali, au sein duquel ils se sont fait connaître au milieu des années 1990. Homme d'affaires très actif, il lance en 2004 sa marque de vêtements streetwear Ünkut puis, suivront au fil des années, un parfum, la marque de whisky D.U.C ainsi qu'un site web, une chaîne de télévision et une webradio, tous trois autour de la marque OKLM.\n\nIl est le second artiste rap solo à remplir le palais omnisports de Paris-Bercy après Kool Shen5. Le groupe Lunatic, avec son compère Ali originaire d'Issy-les-Moulineaux, recueille à la fois les suffrages de la critique et du public6. Leur album Mauvais œil entre dans l'histoire du rap français en obtenant un disque d'or : c'est le premier album en indépendant à obtenir une telle récompense7,8.\n\nBooba a produit dix albums9 et en a vendu plus de 2,8 millions, se classant à la quatrième place des rappeurs ayant le plus vendus d'albums dans l'histoire du rap français10. Le premier, Temps mort, est publié en 2002 ; en 2005 sort la mixtape, Autopsie Vol. 1. Son cinquième album, Lunatic, publié le 22 novembre 201011, reprend le nom de son ancien groupe. Certifié disque d'or dès la première semaine12, Lunatic est aujourd'hui double disque de platine13. Le 26 novembre 2012, Booba publie son sixième opus, intitulé Futur. Certifié disque d'or en une seule semaine avec plus de 51 000 exemplaires vendus, il constitue à ce jour le meilleur démarrage de ventes de sa carrière. Futur bat également le record français d'albums numériques vendus sur iTunes, toutes catégories musicales confondues, avec plus de 17 000 exemplaires en une seule semaine14, détrôné depuis 2013 par les Daft Punk15."
+      }
+    ],
+    "mmmmo:activity": [
+      {
+        "type": "literal",
+        "property_id": 400,
+        "property_label": "activity",
+        "is_public": true,
+        "@value": "Rappeur, producteur, entrepreneur"
+      }
+    ],
+    "mmmmo:image": [
+      {
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Festival_des_Vieilles_Charrues_2019_-_Booba_-_038.jpg"
+      }
+    ],
+    "mmmmo:genre": [
+      {
+        "type": "literal",
+        "property_id": 433,
+        "property_label": "genre",
+        "is_public": true,
+        "@value": "Hip-hop français, gangsta rap"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1994"
+      }
+    ],
+    "mmmmo:discography": [
+      {
+        "type": "resource",
+        "property_id": 418,
+        "property_label": "discography",
+        "is_public": true,
+        "@id": "http://localhost:8888/omeka/api/items/12",
+        "value_resource_id": 12,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "Temps mort"
+      },
+      {
+        "type": "resource",
+        "property_id": 418,
+        "property_label": "discography",
+        "is_public": true,
+        "@id": "http://localhost:8888/omeka/api/items/13",
+        "value_resource_id": 13,
+        "value_resource_name": "items",
+        "url": null,
+        "display_title": "ULTRA"
+      }
+    ],
+    "mmmmo:instrument": [
+      {
+        "type": "literal",
+        "property_id": 440,
+        "property_label": "instrument",
+        "is_public": true,
+        "@value": "Voix, Auto-Tune"
+      }
+    ],
+    "mmmmo:biography": [
+      {
+        "type": "literal",
+        "property_id": 407,
+        "property_label": "biography",
+        "is_public": true,
+        "@value": "Booba est père de deux enfants : une fille nommée Luna née le 20 mai 201425 et un garçon nommé Omar né le 28 février 201526, tous deux nés de sa relation avec Patricia Cerqueira Vinces27. Le 10 janvier 2016, Patricia Vinces annonce sur Instagram être enceinte de son quatrième enfant qui est le troisième né de son union avec Booba28,29.\n\nDepuis 2008 le rappeur vit à Miami, lieu de résidence de sa compagne et ses enfants, et fait la navette avec la France dans le cadre de collaborations artistiques30.\n\nLes médias reprochent souvent à Booba son rapport à l'argent dont il parle en abondance et qu'il exhibe dans ses clips vidéo. Le rappeur qualifie pour sa part l'argent de passeport qui permet de réaliser des objectifs concrets31. Sa fortune est estimée entre 6 et 10 millions d'euros en 201632,33.\n\nIl mesure 1,92 m et pèse près de 110 kg, étant adepte de la musculation depuis 2002[réf. nécessaire].\n\nIl confirme dans une interview être de confession musulmane, mais « pas très pratiquant »34, et dément être de confession juive34,35,36. Démenti réitéré dans la chanson Gun In My Hand, en collaboration avec Akon : « Paraît que je prends de la coke, paraît que je suis en prison, paraît que je suis juif »37 Il trouve cependant stupide et raciste d'utiliser le mot « juif » pour l'insulter et exprime son mépris envers les antisémites.\n\nEn 2006, deux délinquants âgés de 22 ans, Guillaume et Ahmed, veulent s'attaquer à Booba pour de l'argent. Armés d'un flashball et de gaz lacrymogène, ils s'introduisent dans le domicile de sa mère mais le rappeur est absent. Ils ligotent et séquestrent sa mère et son frère afin d'obtenir une rançon. Le rappeur fait appel à la police qui arrête les malfaiteurs, inexpérimentés mais très nerveux. Ils seront condamnés à quatre ans et demi d'emprisonnement38.\n\nLe 22 mai 2011, son ami proche Bram's, membre du collectif 92i, met fin à ses jours. Très affligé par cette perte, Élie Yaffa dédie de nombreux morceaux à sa mémoire et se tatoue le chiffre « 7 » sous l'œil droit afin de lui rendre hommage39."
+      }
+    ],
+    "mmmmo:download": [
+      {
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https://www.deezer.com/fr/artist/390"
+      }
+    ],
+    "mmmmo:group": [
+      {
+        "type": "literal",
+        "property_id": 434,
+        "property_label": "group",
+        "is_public": true,
+        "@value": "LUNATIC"
+      }
+    ],
+    "mmmmo:producer": [
+      {
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Booba"
+      }
+    ],
+    "mmmmo:wikipedia": [
+      {
+        "type": "literal",
+        "property_id": 529,
+        "property_label": "wikipedia",
+        "is_public": true,
+        "@value": "https://fr.wikipedia.org/wiki/Booba"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/12",
+    "@type": [
+      "o:Item",
+      "mmmmo:CD"
+    ],
+    "o:id": 12,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/392",
+      "o:id": 392
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/5",
+      "o:id": 5
+    },
+    "o:thumbnail": null,
+    "o:title": "Temps mort",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-21T11:41:50+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T11:41:50+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Temps mort"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Temps mort est le premier album studio solo du rappeur français Booba, sorti le 22 janvier 2002 sur le label 45 Scientific.\n\nLa production de cet album a été assurée par Booba lui-même à partir de son label 45 Scientific, en distribution avec la major BMG.\n\nIl existe trois pochettes différentes.\n\nEn quelques mois, après la sortie officielle de l'album, une réédition sort avec 2 nouveaux morceaux : le fameux Destinée en feat avec Kayna Samet et le deuxième morceau intitulé Inédit tout simplement."
+      }
+    ],
+    "mmmmo:duration": [
+      {
+        "type": "literal",
+        "property_id": 536,
+        "property_label": "duration",
+        "is_public": true,
+        "@value": "57:42"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "2002"
+      }
+    ],
+    "mmmmo:producer": [
+      {
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Booba"
+      }
+    ],
+    "mmmmo:label": [
+      {
+        "type": "literal",
+        "property_id": 444,
+        "property_label": "label",
+        "is_public": true,
+        "@value": "45 Scientific"
+      }
+    ],
+    "mmmmo:image": [
+      {
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https://static.fnac-static.com/multimedia/FR/Images_Produits/FR/fnac.com/Visual_Principal_340/9/7/6/3700187626679/tsp20120926064208/Temps-mort.jpg"
+      }
+    ],
+    "mmmmo:download": [
+      {
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https://www.deezer.com/fr/album/73913112?utm_source=adwords&utm_campaign=acq_FR_sea-dsa_web_search_perf_tnb-directsub&utm_medium=search&utm_content=dsa_premium_tnb_dsa-allsite&gclid=Cj0KCQiA-eeMBhCpARIsAAZfxZAwnXCIB3PFpBISbC4MgrHlkExTHmlHOSwRiKPdZQXuS2lR7OI15yYaAvD0EALw_wcB"
+      }
+    ],
+    "mmmmo:track": [
+      {
+        "type": "literal",
+        "property_id": 521,
+        "property_label": "track",
+        "is_public": true,
+        "@value": "Temps mort\nIndépendants\nÉcoute bien\nMa définition\nJusqu'ici tout va bien\n[[Repose en paix]]\nLe bitume avec une plume\nAnimals\nSans ratures\n100-8 Zoo\nOn m'a dit\nNouvelle école\nDe mauvaise augure\nStrass et paillettes"
+      }
+    ],
+    "mmmmo:track_number": [
+      {
+        "type": "literal",
+        "property_id": 561,
+        "property_label": "track number",
+        "is_public": true,
+        "@value": "14"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/13",
+    "@type": [
+      "o:Item",
+      "mmmmo:CD"
+    ],
+    "o:id": 13,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/392",
+      "o:id": 392
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/5",
+      "o:id": 5
+    },
+    "o:thumbnail": null,
+    "o:title": "ULTRA",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-21T12:26:38+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T12:26:38+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "ULTRA"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Absent depuis la sortie de son précédent album Trône sorti en décembre 2017, il annonce le 4 novembre 2020, la parution de son 10e album, intitulé ULTRA1.\n\nAvant cela, Booba a enregistré plusieurs singles depuis son dernier album : BB, Gotham, PGP, Arc-en-Ciel, Glaive, Cavaliero, Jauné en featuring avec Zed du groupe 13 Block, Dolce Vita en l'honneur du défunt George Floyd2 et dernièrement RATPI WORLD3. Aucun de ces titres ne figure sur l'album. Il a enregistré de nombreux featurings notamment avec Maes, Leto ainsi que ses nouvelles signatures sur ses différents labels : SDM, Bilton, JSX, Green Montana entre autres. Le 5 novembre à minuit, Booba dévoile son titre 5G comme teaser et premier extrait de son nouvel album4.\n\nDébut janvier 2021, il annonce la date de sortie de ULTRA, qui est prévue pour le 5 mars 20215. À la mi-février avant de mettre fin à sa carrière, il dévoile finalement la pochette de l'album et annonce également que ce sera son dernier6. Fin février, il dévoile la liste des titress de l'album qui contient des collaborations avec Maes, SDM, Bramsito, JSX, Gato, Dala et Elia7. La veille de la sortie de l'album, le 4 mars 2021, il sort le clip Mona Lisa avec JSX8.\n\nIl confirme à plusieurs reprises que cet album est le dernier de sa carrière, mais n’exclut pas et n'a pas démenti d'éventuelles sortie de singles. Il déclare qu'il va dorénavant se concentrer sur la production9 et la direction artistique de ses artistes."
+      }
+    ],
+    "mmmmo:duration": [
+      {
+        "type": "literal",
+        "property_id": 536,
+        "property_label": "duration",
+        "is_public": true,
+        "@value": "41min"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "2021"
+      }
+    ],
+    "mmmmo:producer": [
+      {
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "BOOBA"
+      }
+    ],
+    "mmmmo:label": [
+      {
+        "type": "literal",
+        "property_id": 444,
+        "property_label": "label",
+        "is_public": true,
+        "@value": "Tallac, 92i, Capitol, Universal"
+      }
+    ],
+    "mmmmo:image": [
+      {
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https://angartwork.akamaized.net/webp/?id=138252935&size=296"
+      }
+    ],
+    "mmmmo:download": [
+      {
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https://www.deezer.com/fr/artist/390"
+      }
+    ],
+    "mmmmo:track": [
+      {
+        "type": "literal",
+        "property_id": 521,
+        "property_label": "track",
+        "is_public": true,
+        "@value": "| piste1 = GP \n| piste2 = Azerty\n| piste3 = RST\n| piste4 = Bonne journée\n| piste5 = Mona Lisa\n| piste6 = Je sais\n| piste7 = 5G\n| piste8 = Vue sur la mer\n| piste9 = L'olivier\n| piste10 = VVV\n| piste11 = 31\n| piste12 = Ultra\n| piste13 = Grain de sable\n| piste14 = Dernière fois"
+      }
+    ],
+    "mmmmo:track_number": [
+      {
+        "type": "literal",
+        "property_id": 561,
+        "property_label": "track number",
+        "is_public": true,
+        "@value": "14"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/14",
+    "@type": [
+      "o:Item",
+      "mmmmo:CD"
+    ],
+    "o:id": 14,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/392",
+      "o:id": 392
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/5",
+      "o:id": 5
+    },
+    "o:thumbnail": null,
+    "o:title": "Amoureux de Paname",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-21T12:41:20+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T12:41:20+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Amoureux de Paname"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Même si ses ventes n'ont pas atteint des sommets, certaines chansons comme Hexagone ou Société, tu m'auras pas reçoivent un vif succès. On retiendra que Camarade bourgeois est la première chanson que Renaud a chantée à la télévision, dans une émission de Danièle Gilbert.\n\nLes producteurs refusèrent la chanson Monsieur Franco, trop engagée, qui devint Petite fille des sombres rues2.\n\nLa chanson Greta évoque les séparations liées au mur de Berlin."
+      }
+    ],
+    "mmmmo:duration": [
+      {
+        "type": "literal",
+        "property_id": 536,
+        "property_label": "duration",
+        "is_public": true,
+        "@value": "37 min 03 s"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "3 avril 1975"
+      }
+    ],
+    "mmmmo:producer": [
+      {
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Jacqueline Herrenschmidt"
+      }
+    ],
+    "mmmmo:label": [
+      {
+        "type": "literal",
+        "property_id": 444,
+        "property_label": "label",
+        "is_public": true,
+        "@value": "Polydor"
+      }
+    ],
+    "mmmmo:image": [
+      {
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https://images-eu.ssl-images-amazon.com/images/I/51rEPEOGCAL._SX300_SY300_QL70_ML2_.jpg"
+      }
+    ],
+    "mmmmo:download": [
+      {
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https://www.deezer.com/fr/album/6774458"
+      }
+    ],
+    "mmmmo:track": [
+      {
+        "type": "literal",
+        "property_id": 521,
+        "property_label": "track",
+        "is_public": true,
+        "@value": "| piste1 = Amoureux de Paname \n| piste2 = Société, tu m'auras pas !\n| piste3 = Petite fille des sombres rues \n| piste4 = La Java sans joie \n| piste5 = Gueule d'aminche \n| piste6 = La Coupole \n| piste7 = [[Hexagone (chanson)|Hexagone]]\n| piste8 = Écoutez-moi les gavroches\n| piste9 = Rita \n| piste10 = Camarade bourgeois \n| piste11 = Le Gringalet \n| piste12 = La Menthe à l'eau \n| piste13 = Greta "
+      }
+    ],
+    "mmmmo:track_number": [
+      {
+        "type": "literal",
+        "property_id": 561,
+        "property_label": "track number",
+        "is_public": true,
+        "@value": "13"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/15",
+    "@type": [
+      "o:Item",
+      "mmmmo:CD"
+    ],
+    "o:id": 15,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/392",
+      "o:id": 392
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/5",
+      "o:id": 5
+    },
+    "o:thumbnail": null,
+    "o:title": "Laisse béton",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-21T12:49:24+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T12:49:24+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Laisse béton "
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Laisse béton, appelé parfois Place de ma mob, est le second album de Renaud, sorti en octobre 1977, sous le label Polydor. En réalité, l'album n'a pas de titre, mais l'inscription « Place de ma mob » s'inscrit sur le décor de la couverture et Laisse béton est le titre de la première chanson."
+      }
+    ],
+    "mmmmo:duration": [
+      {
+        "type": "literal",
+        "property_id": 536,
+        "property_label": "duration",
+        "is_public": true,
+        "@value": "34 min 54 s"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "Octobre 1977"
+      }
+    ],
+    "mmmmo:producer": [
+      {
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Jacqueline Herrenschmidt"
+      }
+    ],
+    "mmmmo:label": [
+      {
+        "type": "literal",
+        "property_id": 444,
+        "property_label": "label",
+        "is_public": true,
+        "@value": "Polydor"
+      }
+    ],
+    "mmmmo:image": [
+      {
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https://img.cdandlp.com/2015/04/imgL/117464452.jpg"
+      }
+    ],
+    "mmmmo:download": [
+      {
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https://www.deezer.com/fr/track/84868957"
+      }
+    ],
+    "mmmmo:track": [
+      {
+        "type": "literal",
+        "property_id": 521,
+        "property_label": "track",
+        "is_public": true,
+        "@value": "| piste1 = [[Laisse béton (chanson)|Laisse béton]]\n| piste2 = Le Blues de la Porte d'Orléans\n| piste3 = La Chanson du loubard\n| piste4 = [[Je suis une bande de jeunes]] \n| piste5 = [[Adieu minette]]\n| piste6 = Les Charognards  \n| piste7 = Jojo le démago  \n| piste8 = Buffalo débile  \n| piste9 = [[La Boum (chanson)|La Boum]]\n| piste10 = Germaine  \n| piste11 = Mélusine  \n| piste12 = La Bande à Lucien   "
+      }
+    ],
+    "mmmmo:track_number": [
+      {
+        "type": "literal",
+        "property_id": 561,
+        "property_label": "track number",
+        "is_public": true,
+        "@value": "12"
+      }
+    ]
+  },
+  {
+    "@context": "http://localhost:8888/omeka/api-context",
+    "@id": "http://localhost:8888/omeka/api/items/16",
+    "@type": [
+      "o:Item",
+      "mmmmo:CD"
+    ],
+    "o:id": 16,
+    "o:is_public": true,
+    "o:owner": {
+      "@id": "http://localhost:8888/omeka/api/users/1",
+      "o:id": 1
+    },
+    "o:resource_class": {
+      "@id": "http://localhost:8888/omeka/api/resource_classes/392",
+      "o:id": 392
+    },
+    "o:resource_template": {
+      "@id": "http://localhost:8888/omeka/api/resource_templates/5",
+      "o:id": 5
+    },
+    "o:thumbnail": null,
+    "o:title": "Ma gonzesse",
+    "thumbnail_display_urls": {
+      "large": null,
+      "medium": null,
+      "square": null
+    },
+    "o:created": {
+      "@value": "2021-11-21T13:00:28+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:modified": {
+      "@value": "2021-11-21T13:00:28+00:00",
+      "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+    },
+    "o:media": [],
+    "o:item_set": [],
+    "o:site": [
+      {
+        "@id": "http://localhost:8888/omeka/api/sites/1",
+        "o:id": 1
+      }
+    ],
+    "dcterms:title": [
+      {
+        "type": "literal",
+        "property_id": 1,
+        "property_label": "Title",
+        "is_public": true,
+        "@value": "Ma gonzesse"
+      }
+    ],
+    "dcterms:description": [
+      {
+        "type": "literal",
+        "property_id": 4,
+        "property_label": "Description",
+        "is_public": true,
+        "@value": "Ma gonzesse est le troisième album de Renaud, sorti en 1979 sous le label Polydor.\n\nL'accordéoniste sur cet album est Marcel Azzola qui a entre autres accompagné Jacques Brel. Il est réalisé par Jacques Bedos, tandis que les arrangements et l'orchestration de l'album sont assurés par J.C. Déquéant et Pascal Stive.\n\nLes musiciens jouant sur cet album sont les suivants (hormis Renaud et Marcel Azzola, il s'agit en fait du groupe Oze) : Renaud (chant), Jean-Luc Guillard (batterie), Michel Galliot (basse), José Perez (pedal steel guitare, mandoline, flûte, chœurs), Khaled Malki (clavier, flûte, percussions), Mourad Malki (guitares, banjo et chœurs) et Marcel Azzola (accordéon)."
+      }
+    ],
+    "mmmmo:duration": [
+      {
+        "type": "literal",
+        "property_id": 536,
+        "property_label": "duration",
+        "is_public": true,
+        "@value": "34 min 49 s"
+      }
+    ],
+    "dcterms:available": [
+      {
+        "type": "literal",
+        "property_id": 22,
+        "property_label": "Date Available",
+        "is_public": true,
+        "@value": "1979"
+      }
+    ],
+    "mmmmo:producer": [
+      {
+        "type": "literal",
+        "property_id": 480,
+        "property_label": "producer",
+        "is_public": true,
+        "@value": "Jacques Bedos"
+      }
+    ],
+    "mmmmo:label": [
+      {
+        "type": "literal",
+        "property_id": 444,
+        "property_label": "label",
+        "is_public": true,
+        "@value": "Polydor"
+      }
+    ],
+    "mmmmo:image": [
+      {
+        "type": "literal",
+        "property_id": 438,
+        "property_label": "image",
+        "is_public": true,
+        "@value": "https://m.media-amazon.com/images/I/81Q-XcdVEEL._SX522_.jpg"
+      }
+    ],
+    "mmmmo:download": [
+      {
+        "type": "literal",
+        "property_id": 423,
+        "property_label": "download",
+        "is_public": true,
+        "@value": "https://www.deezer.com/fr/album/6774491"
+      }
+    ],
+    "mmmmo:track": [
+      {
+        "type": "literal",
+        "property_id": 521,
+        "property_label": "track",
+        "is_public": true,
+        "@value": "| piste1 = Ma gonzesse (chanson)|Ma gonzesse\n| piste2 = Sans dec'\n| piste3 = La Tire à Dédé\n| piste4 = Ch'timi rock\n| piste5 = J'ai la vie qui m'pique les yeux\n| piste6 = C'est mon dernier bal \n| piste7 = Le Tango de [[Massy-Palaiseau]] \n| piste8 = Chanson pour Pierrot \n| piste9 = Salut Manouche \n| piste10 = Peau aime"
+      }
+    ],
+    "mmmmo:track_number": [
+      {
+        "type": "literal",
+        "property_id": 561,
+        "property_label": "track number",
+        "is_public": true,
+        "@value": "10"
+      }
+    ]
+  }
+]
