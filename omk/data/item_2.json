@@ -1,0 +1,106 @@
+{
+   "@context":"http:\/\/localhost:8888\/omeka\/api-context",
+   "@id":"http:\/\/localhost:8888\/omeka\/api\/items\/2",
+   "@type":"o:Item",
+   "o:id":2,
+   "o:is_public":true,
+   "o:owner":{
+      "@id":"http:\/\/localhost:8888\/omeka\/api\/users\/1",
+      "o:id":1
+   },
+   "o:resource_class":null,
+   "o:resource_template":{
+      "@id":"http:\/\/localhost:8888\/omeka\/api\/resource_templates\/2",
+      "o:id":2
+   },
+   "o:thumbnail":null,
+   "o:title":"Illuminations des Champs-Elys\u00e9es",
+   "thumbnail_display_urls":{
+      "large":null,
+      "medium":null,
+      "square":null
+   },
+   "o:created":{
+      "@value":"2021-11-14T19:43:43+00:00",
+      "@type":"http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+   },
+   "o:modified":{
+      "@value":"2021-11-14T19:43:43+00:00",
+      "@type":"http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+   },
+   "o:media":[
+      
+   ],
+   "o:item_set":[
+      
+   ],
+   "o:site":[
+      {
+         "@id":"http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+         "o:id":1
+      }
+   ],
+   "dcterms:title":[
+      {
+         "type":"literal",
+         "property_id":1,
+         "property_label":"Title",
+         "is_public":true,
+         "@value":"Illuminations des Champs-Elys\u00e9es"
+      }
+   ],
+   "dcterms:description":[
+      {
+         "type":"literal",
+         "property_id":4,
+         "property_label":"Description",
+         "is_public":true,
+         "@value":"La chanteuse et actrice Louane lance les \u00e9clairages de la plus belle avenue du monde le 22 novembre 2020. Pour accompagner en direct son embrasement de guirlandes et lumi\u00e8res scintillantes, chacun doit s\u2019inscrire en ligne avant le 21 novembre et se tenir pr\u00eat pour le live du lendemain \u00e0 18h30 puis le lancement des illuminations \u00e0 19h05.\n\nSite Internet de l\u2019\u00e9v\u00e9nement"
+      }
+   ],
+   "dcterms:audience":[
+      {
+         "type":"literal",
+         "property_id":16,
+         "property_label":"Audience",
+         "is_public":true,
+         "@value":"Tout public"
+      }
+   ],
+   "dcterms:creator":[
+      {
+         "type":"literal",
+         "property_id":2,
+         "property_label":"Creator",
+         "is_public":true,
+         "@value":"Louane"
+      }
+   ],
+   "dcterms:date":[
+      {
+         "type":"literal",
+         "property_id":7,
+         "property_label":"Date",
+         "is_public":true,
+         "@value":"du 22 novembre 2020 au 06 janvier 2021"
+      }
+   ],
+   "dcterms:language":[
+      {
+         "type":"literal",
+         "property_id":12,
+         "property_label":"Language",
+         "is_public":true,
+         "@value":"francais"
+      }
+   ],
+   "dcterms:spatial":[
+      {
+         "type":"literal",
+         "property_id":40,
+         "property_label":"Spatial Coverage",
+         "is_public":true,
+         "@value":"Avenue des Champs-\u00c9lys\u00e9es\nSurnomm\u00e9e \u0022la plus belle avenue du monde\u0022, l\u2019avenue des Champs-\u00c9lys\u00e9es est une \u00e9tape incontournable d\u2019une visite de la capitale. Touristes et parisiens fl\u00e2nent \u00e0 toute heure du jour et de la nuit, \u00e9t\u00e9 comme hiver, sur cette portion embl\u00e9matique de presque 2 kilom\u00e8tres, entre la place de la Concorde et l\u2019Arc de Triomphe. Symbole de Paris, au m\u00eame titre que la tour Eiffel, elle regorge de restaurants (L\u2019Atelier Renault, Ledoyen\u2026), d\u2019enseignes de luxe (Louis Vuitton, Mont-Blanc, Guerlain, showroom Ferrari \u2026), de flagships de boutiques diverses (Abercrombie, Sephora\u2026) et de clubs. Elle sert de cadre, chaque ann\u00e9e, aux plus grands \u00e9v\u00e9nements populaires : d\u00e9fil\u00e9 du 14 juillet, arriv\u00e9e du tour France, illuminations de No\u00ebl, entre autres. L\u2019avenue des Champs-Elys\u00e9es est aussi marqu\u00e9e par la pr\u00e9sence de grands mus\u00e9es : les Grand et Petit Palais, le Palais de la D\u00e9couverte, l\u2019espace culturel Louis Vuitton. Depuis le 12 mars 2019, les fontaines du rond-point des Champs-\u00c9lys\u00e9es ont retrouv\u00e9 tout leur \u00e9clat gr\u00e2ce aux fr\u00e8res Bourroulec et leurs six cr\u00e9ations de bronze et de cristal, d\u0027une hauteur de 13 m\u00e8tres. Le clou de la visite : l\u2019ascension de l\u2019Arc de Triomphe, au sommet duquel la vue panoramique est spectaculaire !"
+      }
+   ]
+}

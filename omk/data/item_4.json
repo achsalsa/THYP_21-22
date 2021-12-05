@@ -1,0 +1,130 @@
+{
+   "@context":"http:\/\/localhost:8888\/omeka\/api-context",
+   "@id":"http:\/\/localhost:8888\/omeka\/api\/items\/4",
+   "@type":[
+      "o:Item",
+      "dctype:PhysicalObject"
+   ],
+   "o:id":4,
+   "o:is_public":true,
+   "o:owner":{
+      "@id":"http:\/\/localhost:8888\/omeka\/api\/users\/1",
+      "o:id":1
+   },
+   "o:resource_class":{
+      "@id":"http:\/\/localhost:8888\/omeka\/api\/resource_classes\/32",
+      "o:id":32
+   },
+   "o:resource_template":{
+      "@id":"http:\/\/localhost:8888\/omeka\/api\/resource_templates\/3",
+      "o:id":3
+   },
+   "o:thumbnail":null,
+   "o:title":"CLOS VENTURI ROUGE 2018- AOP CORSE",
+   "thumbnail_display_urls":{
+      "large":null,
+      "medium":null,
+      "square":null
+   },
+   "o:created":{
+      "@value":"2021-11-14T20:01:48+00:00",
+      "@type":"http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+   },
+   "o:modified":{
+      "@value":"2021-11-14T20:01:48+00:00",
+      "@type":"http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+   },
+   "o:media":[
+      
+   ],
+   "o:item_set":[
+      
+   ],
+   "o:site":[
+      {
+         "@id":"http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+         "o:id":1
+      }
+   ],
+   "dcterms:title":[
+      {
+         "type":"literal",
+         "property_id":1,
+         "property_label":"Title",
+         "is_public":true,
+         "@value":"CLOS VENTURI ROUGE 2018- AOP CORSE"
+      }
+   ],
+   "dcterms:description":[
+      {
+         "type":"literal",
+         "property_id":4,
+         "property_label":"Description",
+         "is_public":true,
+         "@value":"Clos Venturi rouge 2018- Corse AOP -75 cl      \nEl\u00e9gance et caract\u00e8re pour la version rouge de l\u0027AOP Corse Clos Venturi. La cuv\u00e9e phare du Domaine offre une texture soyeuse, des ar\u00f4mes vibrants de petites baies et fruits \u00e0 parfaite maturit\u00e9, cassis, cerises, d\u00e9licatement relev\u00e9s de notes bois\u00e9es et d\u0027\u00e9pices. La finale, de bonne persistance, laisse apparaitre de d\u00e9licates nuances r\u00e9gliss\u00e9es.\nUne cuv\u00e9e pr\u00e9cise, soign\u00e9e, \u00e0 l\u0027image du travail et de l\u0027exigence du Clos Venturi."
+      }
+   ],
+   "http:\/\/www.w3.org\/TR\/2003\/PR-owl-guide-20031209\/wine:locatedIn":[
+      {
+         "type":"literal",
+         "property_id":213,
+         "property_label":"locatedIn",
+         "is_public":true,
+         "@value":"Corse"
+      }
+   ],
+   "http:\/\/www.w3.org\/TR\/2003\/PR-owl-guide-20031209\/wine:hasBody":[
+      {
+         "type":"literal",
+         "property_id":220,
+         "property_label":"hasBody",
+         "is_public":true,
+         "@value":"Rubis profonde"
+      }
+   ],
+   "http:\/\/www.w3.org\/TR\/2003\/PR-owl-guide-20031209\/wine:hasColor":[
+      {
+         "type":"literal",
+         "property_id":222,
+         "property_label":"hasColor",
+         "is_public":true,
+         "@value":"Couleur Rouge"
+      }
+   ],
+   "http:\/\/www.w3.org\/TR\/2003\/PR-owl-guide-20031209\/wine:hasFlavor":[
+      {
+         "type":"literal",
+         "property_id":221,
+         "property_label":"hasFlavor",
+         "is_public":true,
+         "@value":"intense, petits fruits noirs et rouges bien murs"
+      }
+   ],
+   "http:\/\/www.w3.org\/TR\/2003\/PR-owl-guide-20031209\/wine:hasMaker":[
+      {
+         "type":"literal",
+         "property_id":223,
+         "property_label":"hasMaker",
+         "is_public":true,
+         "@value":"Propri\u00e9taire Famille Acquaviva-Venturi\nMa\u00eetre de chai Guillermier Fabien"
+      }
+   ],
+   "http:\/\/www.w3.org\/TR\/2003\/PR-owl-guide-20031209\/wine:madeFromGrape":[
+      {
+         "type":"literal",
+         "property_id":216,
+         "property_label":"madeFromGrape",
+         "is_public":true,
+         "@value":"suave et fruit\u00e9, tanins bien pr\u00e9sents et longue finale aux nuances r\u00e9gliss\u00e9es"
+      }
+   ],
+   "http:\/\/www.w3.org\/TR\/2003\/PR-owl-guide-20031209\/wine:adjacentRegion":[
+      {
+         "type":"literal",
+         "property_id":214,
+         "property_label":"adjacentRegion",
+         "is_public":true,
+         "@value":"Corse"
+      }
+   ]
+}

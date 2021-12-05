@@ -1,0 +1,124 @@
+{
+   "@context":"http:\/\/localhost:8888\/omeka\/api-context",
+   "@id":"http:\/\/localhost:8888\/omeka\/api\/items\/3",
+   "@type":"o:Item",
+   "o:id":3,
+   "o:is_public":true,
+   "o:owner":{
+      "@id":"http:\/\/localhost:8888\/omeka\/api\/users\/1",
+      "o:id":1
+   },
+   "o:resource_class":null,
+   "o:resource_template":{
+      "@id":"http:\/\/localhost:8888\/omeka\/api\/resource_templates\/2",
+      "o:id":2
+   },
+   "o:thumbnail":null,
+   "o:title":"Philharmonie Live, des concerts gratuits en ligne",
+   "thumbnail_display_urls":{
+      "large":null,
+      "medium":null,
+      "square":null
+   },
+   "o:created":{
+      "@value":"2021-11-14T19:51:16+00:00",
+      "@type":"http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+   },
+   "o:modified":{
+      "@value":"2021-11-14T19:51:16+00:00",
+      "@type":"http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+   },
+   "o:media":[
+      
+   ],
+   "o:item_set":[
+      
+   ],
+   "o:site":[
+      {
+         "@id":"http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+         "o:id":1
+      }
+   ],
+   "dcterms:title":[
+      {
+         "type":"literal",
+         "property_id":1,
+         "property_label":"Title",
+         "is_public":true,
+         "@value":"Philharmonie Live, des concerts gratuits en ligne"
+      }
+   ],
+   "dcterms:description":[
+      {
+         "type":"literal",
+         "property_id":4,
+         "property_label":"Description",
+         "is_public":true,
+         "@value":"Descriptif\nEn d\u00e9cembre, la culture est \u00e0 l\u2019honneur au Carreau du Temple. Apr\u00e8s 12 ans au Bassin de la Villette, s\u2019y d\u00e9roule le festival Culture au quai o\u00f9 250 th\u00e9\u00e2tres, mus\u00e9es, collectivit\u00e9s et salles de concert de toute la France viennent pr\u00e9senter leur saison culturelle.\n\nAu-del\u00e0 des stands, de nombreuses activit\u00e9s sont propos\u00e9es : d\u00e9monstrations de cirque, ateliers, concerts en tout genre, th\u00e9\u00e2tre jeune public en anglais, initiations au street art, sc\u00e8ne ouverte, danse, chant\u2026 De quoi donner des airs de vacances \u00e0 la rentr\u00e9e !"
+      }
+   ],
+   "dcterms:audience":[
+      {
+         "type":"literal",
+         "property_id":16,
+         "property_label":"Audience",
+         "is_public":true,
+         "@value":"Tout public, Enfants, Jeunes"
+      }
+   ],
+   "dcterms:available":[
+      {
+         "type":"literal",
+         "property_id":22,
+         "property_label":"Date Available",
+         "is_public":true,
+         "@value":"du 14 d\u00e9cembre 2020 au 15 d\u00e9cembre 2020"
+      }
+   ],
+   "dcterms:type":[
+      {
+         "type":"literal",
+         "property_id":8,
+         "property_label":"Type",
+         "is_public":true,
+         "@value":"festival"
+      }
+   ],
+   "dcterms:date":[
+      {
+         "type":"literal",
+         "property_id":7,
+         "property_label":"Date",
+         "is_public":true,
+         "@value":"du 14 d\u00e9cembre 2020 au 15 d\u00e9cembre 2020"
+      }
+   ],
+   "dcterms:format":[
+      {
+         "type":"literal",
+         "property_id":9,
+         "property_label":"Format",
+         "is_public":true,
+         "@value":"festival"
+      }
+   ],
+   "dcterms:language":[
+      {
+         "type":"literal",
+         "property_id":12,
+         "property_label":"Language",
+         "is_public":true,
+         "@value":"Le Carreau du Temple "
+      }
+   ],
+   "dcterms:spatial":[
+      {
+         "type":"literal",
+         "property_id":40,
+         "property_label":"Spatial Coverage",
+         "is_public":true,
+         "@value":"4 rue Eug\u00e8ne Spuller - 75003 Paris"
+      }
+   ]
+}

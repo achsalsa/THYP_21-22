@@ -1,0 +1,106 @@
+{
+   "@context":"http:\/\/localhost:8888\/omeka\/api-context",
+   "@id":"http:\/\/localhost:8888\/omeka\/api\/items\/1",
+   "@type":"o:Item",
+   "o:id":1,
+   "o:is_public":true,
+   "o:owner":{
+      "@id":"http:\/\/localhost:8888\/omeka\/api\/users\/1",
+      "o:id":1
+   },
+   "o:resource_class":null,
+   "o:resource_template":{
+      "@id":"http:\/\/localhost:8888\/omeka\/api\/resource_templates\/2",
+      "o:id":2
+   },
+   "o:thumbnail":null,
+   "o:title":"Arte concert festival",
+   "thumbnail_display_urls":{
+      "large":null,
+      "medium":null,
+      "square":null
+   },
+   "o:created":{
+      "@value":"2021-11-14T19:36:37+00:00",
+      "@type":"http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+   },
+   "o:modified":{
+      "@value":"2021-11-14T19:36:37+00:00",
+      "@type":"http:\/\/www.w3.org\/2001\/XMLSchema#dateTime"
+   },
+   "o:media":[
+      
+   ],
+   "o:item_set":[
+      
+   ],
+   "o:site":[
+      {
+         "@id":"http:\/\/localhost:8888\/omeka\/api\/sites\/1",
+         "o:id":1
+      }
+   ],
+   "dcterms:title":[
+      {
+         "type":"literal",
+         "property_id":1,
+         "property_label":"Title",
+         "is_public":true,
+         "@value":"Arte concert festival"
+      }
+   ],
+   "dcterms:description":[
+      {
+         "type":"literal",
+         "property_id":4,
+         "property_label":"Description",
+         "is_public":true,
+         "@value":"Descriptif\nRien n\u2019arr\u00eate Arte qui revient pour une 5e \u00e9dition de son Concert Festival ! Les comptes Facebook d\u2019Arte Concert et de la Ga\u00eet\u00e9 Lyrique donnent rendez-vous pour une s\u00e9rie de concerts film\u00e9s en live ou issus d\u0027\u00e9ditions pr\u00e9c\u00e9dentes du fameux festival, ou d\u0027enregistrements de prestations r\u00e9alis\u00e9es \u00e0 l\u2019\u00e9tranger. S\u00e9bastien Tellier, Yelle, P.R2B, Ichon, Prudence ou encore Lous and the Yakuza sont au programme."
+      }
+   ],
+   "dcterms:audience":[
+      {
+         "type":"literal",
+         "property_id":16,
+         "property_label":"Audience",
+         "is_public":true,
+         "@value":"Tout public"
+      }
+   ],
+   "dcterms:available":[
+      {
+         "type":"literal",
+         "property_id":22,
+         "property_label":"Date Available",
+         "is_public":true,
+         "@value":"La Ga\u00eet\u00e9 Lyrique 3 bis rue Papin - 75003 Paris"
+      }
+   ],
+   "dcterms:type":[
+      {
+         "type":"literal",
+         "property_id":8,
+         "property_label":"Type",
+         "is_public":true,
+         "@value":"Festival | Concert | Musique - divers | Musique actuelle"
+      }
+   ],
+   "dcterms:creator":[
+      {
+         "type":"literal",
+         "property_id":2,
+         "property_label":"Creator",
+         "is_public":true,
+         "@value":"Arte"
+      }
+   ],
+   "dcterms:language":[
+      {
+         "type":"literal",
+         "property_id":12,
+         "property_label":"Language",
+         "is_public":true,
+         "@value":"Francais"
+      }
+   ]
+}

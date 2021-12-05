@@ -1,0 +1,22 @@
+[{
+    "@context":"http:\/\/localhost:8888\/omeka\/api-context",
+    "@id":"http:\/\/localhost:8888\/omeka\/api\/items\/2",
+    "@type":"o:Item",
+    "o:id":2,
+    "titre": "Illuminations des Champs-Elys\u00e9es"
+},
+{
+    "@context":"http:\/\/localhost:8888\/omeka\/api-context",
+    "@id":"http:\/\/localhost:8888\/omeka\/api\/items\/3",
+    "@type":"o:Item",
+    "o:id":3,
+    "titre": "Philharmonie Live, des concerts gratuits en ligne"
+},
+{
+    "@context":"http:\/\/localhost:8888\/omeka\/api-context",
+    "@id":"http:\/\/localhost:8888\/omeka\/api\/items\/1",
+    "@type":"o:Item",
+    "o:id":1,
+    "titre":"Arte concert festival"
+}
+]

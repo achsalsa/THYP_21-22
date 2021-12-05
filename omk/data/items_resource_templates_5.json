@@ -2,29 +2,34 @@
     "@context": "http:\/\/localhost:8888\/omeka\/api-context",
     "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/12",
     "@type": ["o:Item", "mmmmo:CD"],
-    "o:id": 12
+    "o:id": 12,
+    "titre": "Temps mort"
 },
 {
     "@context": "http:\/\/localhost:8888\/omeka\/api-context",
     "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/13",
     "@type": ["o:Item", "mmmmo:CD"],
-    "o:id": 13
+    "o:id": 13,
+    "titre": "ULTRA"
 },
 {
     "@context": "http:\/\/localhost:8888\/omeka\/api-context",
     "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/14",
     "@type": ["o:Item", "mmmmo:CD"],
-    "o:id": 14
+    "o:id": 14,
+    "titre": "Amoureux de Paname"
 },
 {
     "@context": "http:\/\/localhost:8888\/omeka\/api-context",
     "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/15",
     "@type": ["o:Item", "mmmmo:CD"],
-    "o:id": 15
+    "o:id": 15,
+    "titre": "Laisse b\u00e9ton"
 },
 {
     "@context": "http:\/\/localhost:8888\/omeka\/api-context",
     "@id": "http:\/\/localhost:8888\/omeka\/api\/items\/16",
     "@type": ["o:Item", "mmmmo:CD"],
-    "o:id": 16
+    "o:id": 16,
+    "titre": "Ma gonzesse"
 }]
