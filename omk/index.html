@@ -15,7 +15,7 @@
         select{
             width: 100%;
         }
-        div.select{
+        div.select, .hero{
             display: block;
             margin: auto;
             width: 50%;
@@ -25,6 +25,17 @@
 </head>
 <body>
     <div class="container" id="container">
+        <section class="hero is-info">
+            <div class="hero-body">
+              <p class="title">
+                Projet OMEKA JSON
+              </p>
+              <p class="subtitle">
+                Exploitation de fichiers json grace a du jquery et pure JS;
+
+              </p>
+            </div>
+        </section>
         <div class="select">
             <select id="resource_templates">
             </select>
@@ -45,6 +56,9 @@
                 // or save it for later. 
                 test = response;
                 var mySelect = document.getElementById('resource_templates');
+                var newOption = document.createElement("option");
+                newOption.setAttribute("value", "");
+                mySelect.appendChild(newOption);
                 
                 for (i=0;i<test.length;i++) {
                     var newOption = document.createElement("option");
@@ -68,9 +82,15 @@
                             var select2=document.createElement("select");
                             select2.setAttribute("id","select2");
                             console.log(response);
+                            var newOption = document.createElement("option");
+                            newOption.setAttribute("value", "");
+                            select2.appendChild(newOption);
+
+                            console.log(response);
+
                             for (i=0;i<response.length;i++) {
                                 var newOption = document.createElement("option");
-                                newOption.innerHTML=response[i]['o:id']; 
+                                newOption.innerHTML=response[i]['titre'];
                                 newOption.setAttribute("value", response[i]['o:id']);
                                 select2.appendChild(newOption);
                             }
@@ -83,6 +103,24 @@
 
                             container.appendChild(mydiv);
 
+                            select2.addEventListener("change",function(){
+                                $.ajax({ 
+                                url: "./data/item_"+select2.value+".json", 
+                                type: 'GET', 
+                                dataType: 'json', 
+                                success: function(response3) {
+                                    if(response3['@type'][1]=="mmmmo:CD"){
+                                        var infodiv=document.createElement("div");
+                                        infodiv.setAttribute("id", "infodetails");
+                                        
+                                    }
+                                    else if(response3['@type'][1]=="mmmmo:MusicArtist"){
+
+                                    }
+                                    console.log(response3);
+                                }
+                                });
+                            });
                             
                             
                         }
